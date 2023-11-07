@@ -7,7 +7,7 @@
 1. Connectionless
 2. Responsible for routing and [[CCNA/20 - Definitions/QoS\|QoS]]
 
-Current versions are [[IPv4\|IPv4]] and [[CCNA/20 - Definitions/IPv6\|IPv6]]
+Current versions are [[CCNA/20 - Definitions/IPv4\|IPv4]] and [[CCNA/20 - Definitions/IPv6\|IPv6]]
 
 
 IP Header of an IP Packet
