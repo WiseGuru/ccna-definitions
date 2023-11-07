@@ -3,7 +3,7 @@
 ---
 
 #### MAC Address
-A **Media Access Control** address is a unique identifier assigned to a network interface controller (*NIC*) for use as a network address in communications within a network segment, functional at [[CCNA/20 - Definitions/OSI Layers/Layer 2\|Layer 2]].
+A **Media Access Control** address is a unique identifier assigned to a network interface controller (*NIC*) for use as a network address in communications within a network segment, functional at [[CCNA/20 - Definitions/21 - OSI Layers/Layer 2\|Layer 2]].
 - Ethernet uses 48-bit hexadecimal MAC addresses
 	- First 24 bits is the *Organizationally Unique Identifier* (**OUI**), assigned to the *manufacturer* by the [[CCNA/20 - Definitions/IEEE\|IEEE]]
 	- Last 24 bits are *vender assigned*
