@@ -21,11 +21,3 @@ A **Media Access Control** address is a unique identifier assigned to a network 
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
-
