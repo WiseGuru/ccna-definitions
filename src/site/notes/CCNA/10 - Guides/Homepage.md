@@ -6,7 +6,7 @@ Welcome to WiseGuru's community-driven site of **CCNA Definitions**! The goal of
 
 This is (and always will be) a **work in progress**, and as such, it will have *incomplete* or *incorrect* information. I started this database of definitions in 2023, part-way through my own CCNA studies, and so some entries were never updated beyond creation or were created at all.
 
-### Contibuting
+### Contributing
 
 You can help! If you find any information that is incorrect or incomplete (*within the scope of the CCNA*), PLEASE submit a ticket on GitHub with a *correction* and *source*. I will update the page and add a link to your profile on the page as a contributor.
 
