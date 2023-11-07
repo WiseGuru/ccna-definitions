@@ -9,9 +9,6 @@
 
 
 
-
-
-
 # Metadata
 ### OSI or TCP/IP Layer
 
@@ -20,11 +17,5 @@
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
 
 
