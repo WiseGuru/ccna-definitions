@@ -30,7 +30,7 @@
 
 # Metadata
 ### OSI or TCP/IP Layer
-[[CCNA/20 - Definitions/OSI Layers/Layer 2\|Layer 2]]
+[[CCNA/20 - Definitions/21 - OSI Layers/Layer 2\|Layer 2]]
 
 ### CCNA Exam Topic
 
