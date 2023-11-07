@@ -5,7 +5,7 @@
 #### DNS
 The **Domain Name System** is a hierarchical and distributed naming system for computers, services, and other resources in the Internet or other [[CCNA/20 - Definitions/IP\|IP]] networks. It associates various information with domain names assigned to each of the associated entities. It resolves an [[CCNA/20 - Definitions/FQDN\|FQDN]] to an [[CCNA/20 - Definitions/IPv4 Address\|IP address]] 
 
-Resolved on [[CCNA/20 - Definitions/OSI Layers/Layer 3\|Layer 3]]
+Resolved on [[CCNA/20 - Definitions/21 - OSI Layers/Layer 3\|Layer 3]]
 Port 53 [[CCNA/20 - Definitions/TCP\|TCP]]/[[CCNA/20 - Definitions/UDP\|UDP]]
 
 
