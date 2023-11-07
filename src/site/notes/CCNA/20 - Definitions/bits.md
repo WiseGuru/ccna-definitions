@@ -4,7 +4,7 @@
 
 #### Bits
 - *Bits* are electrical impulses that represent either a 0 or 1
-- When combined in a sequence (sent over [[CCNA/20 - Definitions/OSI Layers/Layer 1\|Layer 1]] in a **bitstream**), they can represent complex values
+- When combined in a sequence (sent over [[CCNA/20 - Definitions/21 - OSI Layers/Layer 1\|Layer 1]] in a **bitstream**), they can represent complex values
 
 #### Hex
 - A Base-16 numbering numbering that ranges from *0 (zero)* to *F (15)*
