@@ -3,7 +3,7 @@
 ---
 
 #### dot1Q
-- [[CCNA/20 - Definitions/IEEE\|IEEE]] **802.1Q** encapsulation tags [[CCNA/20 - Definitions/OSI Layers/Layer 2\|Layer 2]] [[CCNA/20 - Definitions/802.3 Frames\|frames]] for trunking
+- [[CCNA/20 - Definitions/IEEE\|IEEE]] **802.1Q** encapsulation tags [[CCNA/20 - Definitions/21 - OSI Layers/Layer 2\|Layer 2]] [[CCNA/20 - Definitions/802.3 Frames\|frames]] for trunking
 - Dot1Q trunks are configured on the links between [[CCNA/20 - Definitions/Switch\|switches]] where we need to carry traffic for multiple VLANS
 	1.  ISL (Inter-Switch Link) was a Cicso Proprietary trunking protocol, now obsolete
 	2.  When the [[CCNA/20 - Definitions/Switch\|Switch]] forwards traffic to another [[CCNA/20 - Definitions/Switch\|Switch]], it tags the layer 2 Dot1Q header with the correct VLAN
