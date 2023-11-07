@@ -10,11 +10,3 @@
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): {{date}}
-> Updated:: 
-
-
