@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ccna/20-definitions/arp/","tags":["defs_ccna"]}
 ---
 
-Exists at [[CCNA/20 - Definitions/OSI Layers/Layer 2\|Layer 2]], ARP maps IP addresses to [[CCNA/20 - Definitions/MAC Address\|MAC]] addresses
+Exists at [[CCNA/20 - Definitions/21 - OSI Layers/Layer 2\|Layer 2]], ARP maps IP addresses to [[CCNA/20 - Definitions/MAC Address\|MAC]] addresses
 - ARP requests and replies are [[CCNA/20 - Definitions/802.3 Frames\|Frames]] that include the target [[CCNA/20 - Definitions/IPv4 Address\|IP address]], the sender's [[CCNA/20 - Definitions/MAC Address\|MAC Address]], and either the [[CCNA/20 - Definitions/Broadcast Address\|Broadcast]] or target's [[CCNA/20 - Definitions/MAC Address\|MAC]] Address
 	- If the [[CCNA/20 - Definitions/Switch\|Switch]] doesn't have the know the target [[CCNA/20 - Definitions/MAC Address\|MAC]] address, it broadcasts out the request to all ports
 	- Hosts that receive frames with mismatched target [[CCNA/20 - Definitions/MAC Address\|MAC]] addresses will drop the frame
