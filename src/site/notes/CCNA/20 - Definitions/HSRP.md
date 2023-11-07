@@ -142,7 +142,7 @@
 </div></div>
 
 ### HSRP operations
-1.  Both [[CCNA/20 - Definitions/Router\|routers]] have a normal physical [[CCNA/20 - Definitions/IPv4 Address\|IP address]] and [[CCNA/20 - Definitions/MAC Address\|MAC]] address on their HSRP interface
+1.  Both [[CCNA/20 - Definitions/Router\|routers]] have a normal physical [[CCNA/20 - Definitions/IPv4\|IP address]] and [[CCNA/20 - Definitions/MAC Address\|MAC]] address on their HSRP interface
 	1.  Unique addresses area used on both [[CCNA/20 - Definitions/Router\|routers]]
 2.  They both also have the HSRP VIP and [[CCNA/20 - Definitions/MAC Address\|MAC]] address configured on the interface
 	1.  The same addresses are used on both [[CCNA/20 - Definitions/Router\|routers]]
