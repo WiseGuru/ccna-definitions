@@ -22,8 +22,7 @@
 			- A guest may successfully authenticate, but they are not authorized to access the file server
 		- In networks, this can mean assigning [[CCNA/20 - Definitions/VLAN\|VLANs]] to devices after it connects to the network
 	- **Accounting**
-		- *Logging* the activity for later review or immediate action
-		- 
+		- [[CCNA/20 - Definitions/Logging\|Logging]] the activity for later review or immediate action
 
 
 # Metadata
