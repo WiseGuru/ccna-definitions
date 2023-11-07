@@ -3,7 +3,7 @@
 ---
 
 #### ICMP
-- *Internet Control Message Protocol* is used for various network diagnostics and error reporting functions in IP/[[CCNA/20 - Definitions/OSI Layers/Layer 3\|Layer 3]] networks
+- *Internet Control Message Protocol* is used for various network diagnostics and error reporting functions in IP/[[CCNA/20 - Definitions/21 - OSI Layers/Layer 3\|Layer 3]] networks
 
 # Metadata
 ### OSI or TCP/IP Layer
