@@ -4,7 +4,7 @@
 
 #### GRE
 - *Generic Routing Encapsulation* creates *unencrypted tunnels* between two clients
-- It does not encrypt traffic in transit, but it's able to encapsulate many [[CCNA/20 - Definitions/OSI Layers/Layer 3\|Layer 3]] protocols like *multicast* and *broadcast* messages
+- It does not encrypt traffic in transit, but it's able to encapsulate many [[CCNA/20 - Definitions/21 - OSI Layers/Layer 3\|Layer 3]] protocols like *multicast* and *broadcast* messages
 	- Because of this, it is often used in conjunction with [[CCNA/20 - Definitions/IPsec\|IPsec]], which encrypts traffic, but is unable to encapsulate many *Layer 3* protocols.
 - *GRE over IPsec* is typically managed by *routers* and not *end hosts*
 	- A host's packet is *encapsulated* in *GRE*, and then *encrypted* and sent over an *IPsec tunnel*
