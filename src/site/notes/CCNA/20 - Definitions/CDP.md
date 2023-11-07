@@ -3,7 +3,7 @@
 ---
 
 #### CDP
-- **Cisco Discovery Protocol** is a [[CCNA/20 - Definitions/OSI Layers/Layer 2\|Layer 2]] protocol to discover directly-connected Cisco devices
+- **Cisco Discovery Protocol** is a [[CCNA/20 - Definitions/21 - OSI Layers/Layer 2\|Layer 2]] protocol to discover directly-connected Cisco devices
 	- CDP messages are not forwarded to other devices
 - Enabled by default on most Cisco equipment
 - It is a closed-protocol similar to [[CCNA/20 - Definitions/LLDP\|LLDP]], but provides additional information on VLAN Trunking Protocol [[CCNA/20 - Definitions/VTP\|VTP]]
