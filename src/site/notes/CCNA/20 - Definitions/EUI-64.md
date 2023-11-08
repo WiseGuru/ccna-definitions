@@ -21,7 +21,7 @@
 - There are two ways to configure it on an interface
 	- Manually specifying the network:
 		- `config-if# ipv6 address <network address> eui-64`
-	- Using [[CCNA/20 - Definitions/Neighbor Discovery Protocol\|Neighbor Discovery Protocol]] to automatically configure the address
+	- Using [[CCNA/20 - Definitions/NDP\|NDP]] to automatically configure the address
 		- `config-if# ipv6 address autoconfig`
 
 
@@ -63,11 +63,5 @@
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
 
 
