@@ -3,7 +3,8 @@
 ---
 
 #### Power over Ethernet
-- 
+- Allows routers and switches to power other network devices such as [[CCNA/20 - Definitions/Wireless Access Points\|Wireless APs]], VoIP phones, and IP cameras
+- a *PD* is a *Powered Device*
 
 
 
@@ -18,11 +19,4 @@
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
-
+[Power over Ethernet - Wikipedia](https://en.wikipedia.org/wiki/Power_over_Ethernet)
