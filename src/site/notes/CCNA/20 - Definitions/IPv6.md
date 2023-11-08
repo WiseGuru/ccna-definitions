@@ -41,14 +41,14 @@
 	1. They are equivalent to IPv4's Private address ranges
 		1. They are not globally routable
 		2. Uses the range *fd00::/8* to assign completely unique addresses to devices
-		3. ![IPv6-unique-local-1.png](/img/user/Attachments/IPv6-unique-local-1.png)
+		3. ![IPv6-unique-local-1.png](/img/user/Attachments/IPv6-unique-local-1.png) (source: [Unique local address - Wikipedia](https://en.wikipedia.org/wiki/Unique_local_address)) 
 			1. The *Global ID* is a 40-bit *Random* hexadecimal string
 			2. The *subnet ID* is 16-bits long, and assigned by the administrator
 			3. The *interface ID* is 64-bits long and unique to each device
 				1. It can either be *stateful* (manually configured) or *stateless* with [[CCNA/20 - Definitions/EUI-64\|EUI-64]] (automatically generated) with
 3. Link Local - **FE80::/10**
 	1. These addresses are *required* and *automatically created*, and are only valid on the direct link it is connected to.
-	2. It is required for [[CCNA/20 - Definitions/Neighbor Discovery Protocol\|Neighbor Discovery Protocol]] and other 
+	2. It is required for [[CCNA/20 - Definitions/NDP\|NDP]] and other 
 
 ### Unicast/Multicast/Anycast Summary
 
@@ -110,3 +110,5 @@
 ### Contributors
 
 ### Sources
+[IPv6 - Wikipedia](https://en.wikipedia.org/wiki/IPv6)
+[Unique local address - Wikipedia](https://en.wikipedia.org/wiki/Unique_local_address)
