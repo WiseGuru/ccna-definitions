@@ -3,7 +3,7 @@
 ---
 
 #### CBWFQ
-- **Class Based Weighted Fair Queuing** gives bandwidth guarantees to specified traffic types
+- **Class Based Weighted Fair Queuing** gives bandwidth guarantees to specified traffic types in [[CCNA/20 - Definitions/QoS\|QoS]]
 
 # Metadata
 ### OSI or TCP/IP Layer
@@ -13,11 +13,4 @@
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-05
-> Updated:: 
-
 
