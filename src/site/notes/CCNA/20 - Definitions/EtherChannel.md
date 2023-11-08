@@ -7,7 +7,7 @@
 	- However, it is more of a stickler than Trunking/DTP
 - There are *three methods* of configuration, and the modes **cannot be mixed**
 	- [[CCNA/20 - Definitions/PAgP\|PAgP]]
-		- Cisco Proprietary
+		- #Cisco-Proprietary 
 		- *desirable* **actively** attempts to form an EtherChannel
 			- Forms EtherChannel with either `desirable` or `auto` neighbors
 		- *auto* does not actively attempt to form an EtherChannel
@@ -37,11 +37,5 @@
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
 
 
