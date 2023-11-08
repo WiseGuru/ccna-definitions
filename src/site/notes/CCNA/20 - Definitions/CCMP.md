@@ -9,7 +9,7 @@
 2. Used in [[CCNA/20 - Definitions/WPA2\|WPA2]]
 3. Consists of two different algorithms to provide Encryption and [[CCNA/20 - Definitions/MIC\|MIC]]
 	1. [[CCNA/20 - Definitions/AES\|AES(Advanced Encryption Standard)]] counter mode encryption
-	2. CBC-MAC (Cipher Block Chaining Message Authentication Code) is used as the MIC to ensure message integrity
+	2. *CBC-MAC* (Cipher Block Chaining Message Authentication Code) is used as the *MIC* to ensure message integrity
 
 
 
@@ -25,11 +25,5 @@
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-05
-> Updated:: 
 
 
