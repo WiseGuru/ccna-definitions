@@ -26,12 +26,6 @@
 	2. Idempotent
 
 
-Format and examples:
-
-![HTTP-1.png](/img/user/Attachments/HTTP-1.png)
-
-![OSI Encapsulation-1.png|600](/img/user/Attachments/OSI%20Encapsulation-1.png)
-
 #### HTTP Response Codes
 1. **1xx** - Informational
 	1. The request was received, continuing process 
@@ -43,8 +37,6 @@ Format and examples:
 	1. The rest contains bad syntax or could not be fulfilled
 5. **5xx** - Server Error
 	1. The server failed to fulfill an apparently valid request
-![HTTP-ResponseCodes-1.png](/img/user/Attachments/HTTP-ResponseCodes-1.png)
-
 
 
 
@@ -56,11 +48,4 @@ Format and examples:
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
 
