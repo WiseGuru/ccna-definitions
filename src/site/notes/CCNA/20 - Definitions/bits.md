@@ -49,10 +49,3 @@ Apparently, 4 bits is called a nibble (or nybble, nyble, nybl) (get it? Because 
 
 ### Sources
 
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-05
-> Updated:: 
-
-
