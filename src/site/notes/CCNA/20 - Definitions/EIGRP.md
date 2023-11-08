@@ -4,7 +4,7 @@
 
 #### EIGRP
 - Enhanced Interior Gateway Routing Protocol
-- Cisco proprietary routing protocol, called "advanced" [[CCNA/20 - Definitions/Distance Vector Routing Protocols\|Distance Vector]] routing protocol
+- #Cisco-Proprietary  routing protocol, called "advanced" [[CCNA/20 - Definitions/Distance Vector Routing Protocols\|Distance Vector]] routing protocol
 - Much better than [[CCNA/20 - Definitions/RIP\|RIP]], but still a DV protocol
 - EIGRP [[CCNA/20 - Definitions/Router\|routers]] need to have the same Autonomous System (AS) number
 	- `Config# router eigrp (AS number)`
@@ -19,17 +19,13 @@
 	- *Advertised Distance* is the neighbor device's *Feasible Distance*
 	- **Successor** is the route with the lowest metric to the destination
 	- **Feasible Successor** an *guarantied loop-free* alternate route should the *Successor* go down that has a lower *Advertised Distance* than the *Successor's Feasible Distance*
-		- The "Lower AD than Successor's FD" is known as the *Feasibility condition*
-		- ![EIGRP-Metric-1.png|800](/img/user/Attachments/EIGRP-Metric-1.png)
-			- RED = G0/0 Feasible Route
-			- BLUE = G0/0 Reported Distance (from R2)
-			- YELLOW: G1/0 Feasible Route
-			- PINK: G1/0 Reported Distance (from R3)
-			- G0/0 is the *Successor* route, and G1/0 is the *Feasible Successor* route
+		- The "Lower [[CCNA/20 - Definitions/AD\|AD]] than Successor's FD" is known as the *Feasibility condition*
+
+**NOTE**: I need a graph here to help illustrate all the EIGRP terms.
 
 #### Unequal-Cost Load-balancing
 - This is different from [[CCNA/20 - Definitions/ECMP\|ECMP]]
-	- By default, EIGRP uses ECMP
+	- By default, EIGRP uses [[CCNA/20 - Definitions/ECMP\|ECMP]]
 - You can tell EIGRP to load balance between the Successor and the Feasible Successor routes (ONLY the S and FS routes will be load balanced)
 	- Change this via *Metric variance Multiplier*
 		- `config-router# variance 2`
@@ -44,11 +40,4 @@
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
 
