@@ -21,9 +21,3 @@ CIDR notation uses a slash to describe the [[CCNA/20 - Definitions/IP subnet\|su
 ### Sources
 
 
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
-
