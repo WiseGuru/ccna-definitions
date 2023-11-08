@@ -15,9 +15,3 @@ The process of adjusting the flow of data from the sender to ensure that the rec
 ### Sources
 
 
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
-
