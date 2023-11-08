@@ -27,11 +27,3 @@ Definition: When sender composes a packet, it gets packed up like a Russian doll
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-05
-> Updated:: 
-
-
