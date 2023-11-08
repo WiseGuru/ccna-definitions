@@ -10,8 +10,9 @@
 Current versions are [[CCNA/20 - Definitions/IPv4\|IPv4]] and [[CCNA/20 - Definitions/IPv6\|IPv6]]
 
 
-IP Header of an IP Packet
-![IP-Header-1.png](/img/user/Attachments/IP-Header-1.png)
+Header of an [[CCNA/20 - Definitions/Packet\|IPv4 Packet]]
+![IP-header-2.png](/img/user/Attachments/IP-header-2.png)
+Source: [Internet Protocol version 4 - Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol_version_4#Header)
 
 # Metadata
 ### OSI or TCP/IP Layer
@@ -21,11 +22,5 @@ IP Header of an IP Packet
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
-
+[Internet Protocol version 4 - Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol_version_4)
+[IPv6 - Wikipedia](https://en.wikipedia.org/wiki/IPv6)
