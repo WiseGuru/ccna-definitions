@@ -9,7 +9,7 @@
 			- *Knowledge*
 				- Password, pre-set PIN, mother's maiden name
 			- *Possession*
-				- RSA SecurID token, soft token (e.g. Authy), SMS code, etc.
+				- [[CCNA/20 - Definitions/RSA\|RSA]] SecurID token, soft token (e.g. Authy), SMS code, etc.
 			- *Inherent*
 				- Biometrics (fingerprint, face, voice, iris, etc.)
 			- *Location*
@@ -33,11 +33,4 @@
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-05
-> Updated:: 
-
 
