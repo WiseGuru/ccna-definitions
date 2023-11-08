@@ -18,10 +18,3 @@
 
 ### Sources
 
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-05
-> Updated:: 
-
-
