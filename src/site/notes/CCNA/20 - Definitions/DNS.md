@@ -42,10 +42,3 @@ Port 53 [[CCNA/20 - Definitions/TCP\|TCP]]/[[CCNA/20 - Definitions/UDP\|UDP]]
 
 ### Sources
 
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
-
