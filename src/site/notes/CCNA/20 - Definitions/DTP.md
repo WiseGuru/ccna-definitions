@@ -3,7 +3,7 @@
 ---
 
 #### DTP
-- *Dynamic Trunking Protocol* is a Cisco-proprietary tool to allow *switchports* to automatically negotiate a [[CCNA/20 - Definitions/Trunk\|trunk]]
+- *Dynamic Trunking Protocol* is a #Cisco-Proprietary  tool to allow *switchports* to automatically negotiate a [[CCNA/20 - Definitions/Trunk\|trunk]]
 	- While Cisco is very proud of it, and it *will probably come up on the CCNA*, it is a **security risk** (see [[CCNA/20 - Definitions/Layer 2 Attack Types\|VLAN Hopping]]) and should be disabled using the `switchport nonegotiate` command
 
 
@@ -34,11 +34,5 @@
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
 
 
