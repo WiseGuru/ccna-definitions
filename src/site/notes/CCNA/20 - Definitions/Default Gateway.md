@@ -16,9 +16,3 @@ The *Default Gateway* or *Gateway of Last Resort* is network node that servers a
 ### Sources
 
 
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
-
