@@ -4,14 +4,17 @@
 
 # Unoriginal
 These are pages that have unoriginal or private content, and should have new content added to them.
-1. [[CCNA/20 - Definitions/Routing Table\|Routing Table]]
-	2. Contains practice routing tables from JITL; need to replace
-2. Graph on [[CCNA/20 - Definitions/Trunk\|Trunk]]
-3. [[CCNA/20 - Definitions/URI\|URI]]
-4. [[CCNA/20 - Definitions/WLC\|WLC]]
-5. [[CCNA/20 - Definitions/21 - OSI Layers/OSI Encapsulation\|OSI Encapsulation]]
-6. [[CCNA/20 - Definitions/25 - Mnemonics and Summaries/Cisco Troubleshooting Methodology\|Cisco Troubleshooting Methodology]]
-7. [[CCNA/20 - Definitions/DHCP Snooping\|DHCP Snooping]]
+1. [[CCNA/20 - Definitions/WLC\|WLC]]
+	1. Linked, but would prefer to be original
+2. [[CCNA/20 - Definitions/21 - OSI Layers/OSI Encapsulation\|OSI Encapsulation]]
+	1. Needs an original image
+3. [[CCNA/20 - Definitions/Cisco Troubleshooting Methodology\|Cisco Troubleshooting Methodology]]
+	1. Linked, but would prefer it to be original
+4. [[CCNA/20 - Definitions/DHCP Snooping\|DHCP Snooping]]
+	1. Unsure where I got the CLI output from, should be original
+5. [[CCNA/20 - Definitions/Port Security\|Port Security]]
+	1. Linked, but would prefer to be original
+
 
 # Split Up
 These are pages that probably need to be broken out into their component parts and then linked to or created fresh.
@@ -27,13 +30,20 @@ These are pages that probably need to be broken out into their component parts a
 # Stubs
 These are pages that are shorter than they should be and/or don't exist. 
 1. [[CCNA/20 - Definitions/VTY\|VTY]]
-2. [[802.11\|802.11]]
-3. [[CCNA/20 - Definitions/Rapid STP\|Rapid STP]]
-4. [[CCNA/20 - Definitions/IP subnet\|IP subnet]]
-5. [[CCNA/20 - Definitions/WAN\|WAN]]
-6. [[CCNA/20 - Definitions/WAN Topology\|WAN Topology]]
-7. [[CCNA/20 - Definitions/RC4\|RC4]]
-8. [[CCNA/20 - Definitions/Wireless Network\|Wireless Network]]
-9. [[CCNA/20 - Definitions/25 - Mnemonics and Summaries/Configuring Routes\|Configuring Routes]]
-10. [[CCNA/20 - Definitions/VMs\|VMs]]
-11. [[CCNA/20 - Definitions/DH\|DH]]
+2. [[CCNA/20 - Definitions/EIGRP\|EIGRP]]
+	1. Needs a picture to help illustrate the EIGRP metric terms
+3. [[802.11\|802.11]]
+4. [[CCNA/20 - Definitions/Rapid STP\|Rapid STP]]
+5. [[CCNA/20 - Definitions/IP subnet\|IP subnet]]
+6. [[CCNA/20 - Definitions/WAN\|WAN]]
+7. [[CCNA/20 - Definitions/Ethernet\|Ethernet]]
+8. [[CCNA/20 - Definitions/WAN Topology\|WAN Topology]]
+9. [[CCNA/20 - Definitions/RC4\|RC4]]
+10. [[CCNA/20 - Definitions/Wireless Network\|Wireless Network]]
+11. [[CCNA/20 - Definitions/25 - Mnemonics and Summaries/Configuring Routes\|Configuring Routes]]
+12. [[CCNA/20 - Definitions/VMs\|VMs]]
+13. [[CCNA/20 - Definitions/DH\|DH]]
+14. [[CCNA/20 - Definitions/FLSM\|FLSM]]
+15. [[CCNA/20 - Definitions/Unicast Address\|Unicast Address]]
+16. [[CCNA/20 - Definitions/Routing Table\|Routing Table]]
+	1. Need to add practice sample routing tables
