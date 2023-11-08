@@ -8,7 +8,7 @@
 
 
 #### Multicast MAC address
-- [[CCNA/20 - Definitions/802.3 Frames\|802.3 Frames]] are Layer 2, not Layer 3, so Multicast IP addresses must be mapped to MAC addresses
+- [[CCNA/20 - Definitions/802.3 Frames\|802.3 Frames]] are [[CCNA/20 - Definitions/21 - OSI Layers/Layer 2\|Layer 2]], not Layer 3, so Multicast IP addresses must be mapped to MAC addresses
 - The reserved range is 01-00-5E-00-00-00 through 01-00-5E-7F-FF-FF
 	- The first 24 bits are always 01-00-5E, and the 25th bit is always 0, so the 7th octet can only ever equal 0-7
 		- Prefix binary: **00000001.00000000.01011110.0**
