@@ -7,8 +7,8 @@
 - Agentless
 - Written in [[CCNA/20 - Definitions/Python\|Python]]
 - Uses a "Push" model
-- Uses SSH to connect to devices
-- Uses YAML for its necessary files
+- Uses [[CCNA/20 - Definitions/SSH\|SSH]] to connect to devices
+- Uses [[CCNA/20 - Definitions/YAML\|YAML]] for its necessary files
 - Ansible Playbooks define actions taken
 - Ansible Server is called the "Control Node"
 
@@ -48,11 +48,4 @@
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-05
-> Updated:: 
-
 
