@@ -4,7 +4,7 @@
 
 #### YAML
 1. Definition: *YAML Ain't Markup Language* (Originally, *Yet Another Markup Language*) is a human-readable format where whitespace is significant, and is used by [[CCNA/20 - Definitions/Ansible\|Ansible]]
-	1. Often used in [[CCNA/20 - Definitions/Python\|Python]], Perl, and Ansible
+	1. Often used in [[CCNA/20 - Definitions/Python\|Python]], Perl, and [[CCNA/20 - Definitions/Ansible\|Ansible]]
 		1. Ansible Playbook uses YAML
 	2. Designed to be easily read by humans
 		1. White space (indentation) is important
