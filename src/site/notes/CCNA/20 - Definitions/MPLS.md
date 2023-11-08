@@ -13,7 +13,7 @@
 		- Do not use MPLS, and the MPLS network is *transparent (invisible)* to the customer network
 	- *PE router* (Provider Edge router)
 		- Router at the edge of the *provider*'s network that connects the *CE*
-		- When *PE* routers receive frames *CE* router, they add a label between the *Layer 2* and *Layer 3* headers
+		- When *PE* routers receive frames *CE* router, they add a label between the *[[CCNA/20 - Definitions/21 - OSI Layers/Layer 2\|Layer 2]]* and *[[CCNA/20 - Definitions/21 - OSI Layers/Layer 3\|Layer 3]]* headers
 	- *P router* (Provider core router)
 		- The *internal network infrastructure* of the *provider*'s network
 		- *P* routers make forwarding decisions based on the *label* on the frames
