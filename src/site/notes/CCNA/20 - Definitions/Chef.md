@@ -8,14 +8,14 @@
 - Agent Based
 - Pull model
 - TCP 10002 to send configs to clients
-- Its files (like Recipes and Cookbooks) use a [[CCNA/20 - Definitions/Domain-Specific Language\|DSL]] based on Ruby
+- Its files (e.g., Recipes and Cookbooks) use a [[CCNA/20 - Definitions/Domain-Specific Language\|DSL]] based on Ruby
 
 ##### Broad Summary
 - Written in ruby
 - Chef is agent-based
 - Uses a Pull model
-- Server uses TCP 10002 to send configurations to client
-- Files use a [[DSL\|DSL (Domain-Specified Language)]] based on Ruby
+- Server uses [[CCNA/20 - Definitions/TCP\|TCP]] 10002 to send configurations to client
+- Files use a [[CCNA/20 - Definitions/Domain-Specific Language\|DSL (Domain-Specific Language)]] based on Ruby
 - Key files
 	- Resources
 		- The "Ingredients" in a recipe
@@ -29,6 +29,7 @@
 		- An ordered list of recipes that are run to bring a device to the desired configuration state
 
 ![Chef-2.png](/img/user/Attachments/Chef-2.png)
+Image courtesy of [Chef Infra Overview](https://docs.chef.io/chef_overview/)
 
 
 
@@ -42,9 +43,4 @@
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
+[Chef Infra Overview](https://docs.chef.io/chef_overview/)
