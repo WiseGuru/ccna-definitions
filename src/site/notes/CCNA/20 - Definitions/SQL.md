@@ -20,10 +20,3 @@
 
 ### Sources
 [SQL - Wikipedia](https://en.wikipedia.org/wiki/SQL)
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
-
