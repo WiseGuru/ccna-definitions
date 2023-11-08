@@ -3,19 +3,19 @@
 ---
 
 - Router with Separate Interfaces
-	- Routers configure each interface to a different VLAN
+	- Routers configure each interface to a different [[CCNA/20 - Definitions/VLAN\|VLAN]]
 	- Less likely to suffer congested lines, but more likely to run out of interfaces
-- Router on a Stick
+- [[CCNA/20 - Definitions/ROAS\|Router on a Stick]]
 	- Traffic for multiple VLANs are trunked on a single interface
 	- Each VLAN is assigned to a virtual sub-interface
 	- More likely to suffer congested lines
-	- The Dot1Q tag in a [[CCNA/20 - Definitions/802.3 Frames\|Frame]] specifies the sub-interface
+	- The [[CCNA/20 - Definitions/dot1q\|dot1q]] tag in a [[CCNA/20 - Definitions/802.3 Frames\|Frame]] specifies the sub-interface
 - Layer 3 Switch
 	- Takes over some Layer 3 functions of a router, such as local VLAN/Subnet switching
 	- Intra-campus traffic routed on switch backplane, reducing hops to external router
 	- Router may still be needed for WAN connected and other services
 - Configuration
-	- Router: Create the sub interface on the trunking interface
+	- Router: Create the sub interface on the [[CCNA/20 - Definitions/Trunk\|Trunking]] interface
 		- `config# int <interface>.<VLAN ID>`
 			- That is, `config# int g0/1.10`
 	- Router: Configure the sub interface to operate on a specific VLAN
@@ -35,11 +35,4 @@
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
 
