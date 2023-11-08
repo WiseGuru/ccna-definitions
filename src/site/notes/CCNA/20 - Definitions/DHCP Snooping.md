@@ -25,7 +25,7 @@
 	- Optionally and only sent by *DHCP relay agents* on messages they *forward* to the *DHCP Server*
 		- Provides information about *which relay agent* is forwarding the message, the *VLAN*, *interface*, etc.
 	- By default, DHCP Snooping *tags all messages* from clients with *option 82*
-		- However, Layer 2 Switches **drop** incoming DHCP packets with Option 82 on *untrusted ports* by default
+		- However, [[CCNA/20 - Definitions/21 - OSI Layers/Layer 2\|Layer 2]] Switches **drop** incoming DHCP packets with Option 82 on *untrusted ports* by default
 		- Similarly, Cisco Routers acting as DHCP server will drop 
 			- Error message keywords:
 				- `inconsistent relay information`
@@ -97,12 +97,5 @@
 
 ### Sources
 [Configuring DHCP Snooping - Cisco Systems](https://www.cisco.com/en/US/docs/general/Test/dwerblo/broken_guide/snoodhcp.html#wp1074087)
-
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
 
 
