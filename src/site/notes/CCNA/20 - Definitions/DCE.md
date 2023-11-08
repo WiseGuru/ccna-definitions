@@ -3,12 +3,12 @@
 ---
 
 #### DCE/DTE
-DCE/DTE are two sides of a [[CCNA/20 - Definitions/Serial\|Serial]] connection.
-1. The **DCE** (*Data Circuit-terminating Equipment, Data Communications Equipment, or Data Carrier Equipment*) transmits the clock signal and controls the clock rate
-2. The **DTE** (Data *Terminal* Equipment) receives the clock signal
-3. Summary:
-	1. **DCE** Transmits the clock signal and controls the clock rate
-	2. **DTE** Receives the clock signal
+- *DCE/DTE* are two sides of a [[CCNA/20 - Definitions/Serial\|Serial]] connection.
+	- The **DCE** (*Data Circuit-terminating Equipment, Data Communications Equipment, or Data Carrier Equipment*) transmits the clock signal and controls the clock rate
+	- The **DTE** (*Data* **Terminal** *Equipment*) receives the clock signal
+- In short:
+	- **DCE** Transmits the clock signal and controls the clock rate
+	- **DTE** Receives the clock signal
 
 Clock rate only needs to be configured on the DCE
 `# sho controllers `
@@ -34,11 +34,4 @@ The **DCE V.35** indicates that R1 is the DCE in the pair, and controls the cloc
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
 
