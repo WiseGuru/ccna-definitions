@@ -3,7 +3,7 @@
 ---
 
 #### Collision Domain
-- A collision domain is a *network segment* connected by a *shared medium* or through repeaters where simultaneous data transmissions collide with one another
+- A **collision domain** is a *network segment* connected by a *shared medium* or through repeaters where simultaneous data transmissions collide with one another
 	- Mostly applies to wireless networks and [[CCNA/20 - Definitions/Hub\|hubs]].
 
 # Metadata
@@ -14,11 +14,4 @@
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
 
