@@ -69,18 +69,18 @@
 
 ### FHRP Protocols
 1. **[[CCNA/20 - Definitions/HSRP\|Hot Standby Router Protocol (HSRP)]]**
-	1. Cisco Proprietary; deployed in active/standby pairs
+	1. #Cisco-Proprietary ; deployed in active/standby pairs
 	2. **This is what's covered in the CCNA**
 2. Virtual Router Redundancy Protocol (VRRP)
 	1. Open standard; deployed in active/standby pairs
 	2. Almost identical to HSRP.
 		1. One difference is HSRP uses "standby" and VRRP uses "vrrp"
 3. Gateway Load Balancing Protocol (GLBP)
-	1. Cisco proprietary; supports active/active load balancing across multiple routers on the same subnet
+	1. #Cisco-Proprietary ; supports active/active load balancing across multiple routers on the same subnet
 
 1. FHRP-activated routers communicate with each other by sending **multicast** Hello messages
 2. When FHRP is configured, the **Virtual IP address** should be configured as the default gateway for hosts
-3. The active FHRP router responds to ARP requests with a **virtual MAC address**
+3. The active FHRP router responds to [[CCNA/20 - Definitions/ARP\|ARP]] requests with a **virtual MAC address**
 4. HSRP uses **Active** and **Standby** routers
 	1. When HSRP Standby router switches to active, it will send **gratuitous ARP messages**
 	2. The HSRP active router is determined by **Highest priority**, then **highest IP address**
@@ -132,13 +132,6 @@
 
 
 
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
-
-
-
 </div></div>
 
 ### HSRP operations
@@ -147,7 +140,7 @@
 2.  They both also have the HSRP VIP and [[CCNA/20 - Definitions/MAC Address\|MAC]] address configured on the interface
 	1.  The same addresses are used on both [[CCNA/20 - Definitions/Router\|routers]]
 3.  When they come online, one is elected to HSRP active router, the other is standby
-4.  The active router owns the virtual IP and [[CCNA/20 - Definitions/MAC Address\|MAC]] address and responds to ARP requests
+4.  The active router owns the virtual IP and [[CCNA/20 - Definitions/MAC Address\|MAC]] address and responds to [[CCNA/20 - Definitions/ARP\|ARP]] requests
 5.  All traffic for the VIP goes through the active router
 6.  The [[CCNA/20 - Definitions/Router\|routers]] send hello messages to each other over their HSRP interface
 	1.  If the standby router stops receiving hellos from the active, it will transition to be the active router
@@ -218,11 +211,4 @@ R2Config# int g0/1
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
 
