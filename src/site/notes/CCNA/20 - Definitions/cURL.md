@@ -15,9 +15,3 @@
 ### Sources
 [cURL - Wikipedia](https://en.wikipedia.org/wiki/CURL)
 
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
-
