@@ -3,7 +3,7 @@
 ---
 
 #### FlexConnect
-- *FlexConnect* is a Cisco-proprietary solution that allows [[CCNA/20 - Definitions/Wireless Access Points\|Lightweight Access Points]] to function like *Autonomous* APs and forward traffic locally if access to the [[CCNA/20 - Definitions/WLC\|WLC]] is lost
+- *FlexConnect* is a #Cisco-Proprietary  solution that allows [[CCNA/20 - Definitions/Wireless Access Points\|Lightweight Access Points]] to function like *Autonomous* APs and forward traffic locally if access to the [[CCNA/20 - Definitions/WLC\|WLC]] is lost
 
 
 
@@ -16,11 +16,4 @@
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
 
