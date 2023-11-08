@@ -5,7 +5,7 @@
 #### DTLS
 - *Datagram Transport Layer Security (DTLS)* can be used in [[CCNA/20 - Definitions/CAPWAP\|CAPWAP]] to secure the Data tunnel
 	- Encapsulates headers to form 
-- Similar to [[CCNA/20 - Definitions/TLS\|TLS]], but uses UDP instead of TCP packets
+- Similar to [[CCNA/20 - Definitions/TLS\|TLS]], but uses [[CCNA/20 - Definitions/UDP\|UDP]] instead of TCP packets
 
 
 
@@ -17,11 +17,4 @@
 ### Contributors
 
 ### Sources
-
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
 
