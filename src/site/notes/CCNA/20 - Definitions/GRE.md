@@ -30,10 +30,3 @@ Example: **HostA** is sending a packet over the WAN to **HostB**. *RouterA* and 
 
 ### Sources
 
-
-
-> [!info]- Created (dynamic):: 
-> Date created (stamp): 2023-11-06
-> Updated:: 
-
-
