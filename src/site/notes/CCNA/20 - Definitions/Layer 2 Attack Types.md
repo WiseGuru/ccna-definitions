@@ -3,7 +3,7 @@
 ---
 
 #### [[CCNA/20 - Definitions/VLAN\|VLAN]] Hopping
-- *Double-tagging 802.1Q* frames on a *trunk* link to move between VLANs
+- *Double-tagging [[CCNA/20 - Definitions/dot1q\|802.1Q]]* frames on a *trunk* link to move between VLANs
 - Mitigate by *disabling DTP*, change the *native VLAN* to an unused VLAN, and configure all user-facing interfaces as *access ports*
 
 #### [[CCNA/20 - Definitions/MAC Address\|MAC]] Flooding (or [[CCNA/20 - Definitions/CAM Table\|CAM Table]] Overflow)
