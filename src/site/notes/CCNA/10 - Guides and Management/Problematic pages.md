@@ -47,3 +47,5 @@ These are pages that are shorter than they should be and/or don't exist.
 15. [[CCNA/20 - Definitions/Unicast Address\|Unicast Address]]
 16. [[CCNA/20 - Definitions/Routing Table\|Routing Table]]
 	1. Need to add practice sample routing tables
+17. [[CCNA/20 - Definitions/Firewall\|Firewall]]
+18. [[CCNA/20 - Definitions/IDS-IPS\|IDS-IPS]]
