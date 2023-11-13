@@ -3,7 +3,7 @@
 ---
 
 #### CKIP
--  *Cisco Key Integrity Protocol (CKIP)* is a #Cisco-Proprietary  [[CCNA/20 - Definitions/21 - OSI Layers/Layer 2\|Layer 2]] security mechanism configured on [[CCNA/20 - Definitions/WLC\|WLC]]s to encrypt [[CCNA/20 - Definitions/Wireless Network\|802.11]] traffic.
+-  *Cisco Key Integrity Protocol (CKIP)* is a #Cisco-Proprietary  [[CCNA/20 - Definitions/21 - OSI Layers/Layer 2\|Layer 2]] security mechanism configured on [[CCNA/20 - Definitions/WLC\|WLC]]s to encrypt [[CCNA/20 - Definitions/WLAN\|802.11]] traffic.
 
 
 
