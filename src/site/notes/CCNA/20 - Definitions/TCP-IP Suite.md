@@ -3,7 +3,7 @@
 ---
 
 #### TCP/IP Suite
-- The *TCP/IP Suite* is very similar to the the [[OSI Model\|OSI Model]]
+- The *TCP/IP Suite* is very similar to the the [[CCNA/20 - Definitions/21 - OSI Layers/OSI Model\|OSI Model]]
 	- However, it's far more commonly used and relevant in today's networking world
 - Developed by the DoD in the 1960s, and has 4 levels
 	1. **Layer 4**: Application
