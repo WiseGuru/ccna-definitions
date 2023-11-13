@@ -3,7 +3,7 @@
 ---
 
 #### LAN Topology
-- The campus LAN should be designed for scalability, performance, and security
+- The campus [[CCNA/20 - Definitions/LAN\|LAN]] should be designed for scalability, performance, and security
 
 ### Three Layers in Traditional Design
 1. 3-Tier network
