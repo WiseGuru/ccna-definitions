@@ -4,7 +4,7 @@
 
 #### Loss
 - *Loss* is the measurement of *packet drops* in a communication
-	- Can be caused by collisions, congestion, WoS settings, etc.
+	- Can be caused by [[CCNA/20 - Definitions/Collisions\|collisions]], congestion, WoS settings, etc.
 
 
 
