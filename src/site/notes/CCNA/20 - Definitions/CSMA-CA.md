@@ -3,7 +3,7 @@
 ---
 
 #### CSMA/CA
-- *Carrier Sense Multiple Access with Collision Avoidance* is like [[CCNA/20 - Definitions/CSMA-CD\|CSMA/CD]], but is used in wireless networks to avoid collisions
+- *Carrier Sense Multiple Access with [[CCNA/20 - Definitions/Collisions\|Collision]] Avoidance* is like [[CCNA/20 - Definitions/CSMA-CD\|CSMA/CD]], but is used in wireless networks to avoid [[CCNA/20 - Definitions/Collisions\|collisions]]
 - A device will wait for other devices to stop transmitting before it transmits data itself
 
 # Metadata
