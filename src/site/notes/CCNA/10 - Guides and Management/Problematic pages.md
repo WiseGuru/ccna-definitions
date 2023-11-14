@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/ccna/10-guides-and-management/problematic-pages/"}
 ---
 
+Help me fix these pages; hit me up with this [Google Forms Survey](https://forms.gle/HmYY8zjdgzJQFiWr5) or submit an [issue on GitHub](https://github.com/WiseGuru/ccna-definitions-vault/issues/new).
 # Unoriginal
 These are pages that have unoriginal or private content, and should have new content added to them.
 1. [[CCNA/20 - Definitions/WLC\|WLC]]
