@@ -7,13 +7,11 @@ Help me fix these pages; hit me up with this [Google Forms Survey](https://forms
 These are pages that have unoriginal or private content, and should have new content added to them.
 1. [[CCNA/20 - Definitions/WLC\|WLC]]
 	2. Linked, but would prefer to be original
-2. [[CCNA/20 - Definitions/21 - OSI Layers/OSI Encapsulation\|OSI Encapsulation]]
-	1. Needs an original image
-3. [[CCNA/20 - Definitions/Cisco Troubleshooting Methodology\|Cisco Troubleshooting Methodology]]
-	1. Linked, but would prefer it to be original
-4. [[CCNA/20 - Definitions/DHCP Snooping\|DHCP Snooping]]
+2. [[CCNA/20 - Definitions/Cisco Troubleshooting Methodology\|Cisco Troubleshooting Methodology]]
+	4. Linked, but would prefer it to be original
+3. [[CCNA/20 - Definitions/DHCP Snooping\|DHCP Snooping]]
 	1. Unsure where I got the CLI output from, should be original
-5. [[CCNA/20 - Definitions/Port Security\|Port Security]]
+4. [[CCNA/20 - Definitions/Port Security\|Port Security]]
 	1. Linked, but would prefer to be original
 
 
