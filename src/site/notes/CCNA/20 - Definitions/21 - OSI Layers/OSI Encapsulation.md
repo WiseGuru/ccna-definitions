@@ -19,6 +19,7 @@
 | Physical     | Physical      | [[CCNA/20 - Definitions/bits\|bits]]            | -                        | -                           |
 
 ![OSI Encapsulation-2.png](/img/user/Attachments/OSI%20Encapsulation-2.png)
+Source: Original
 
 
 # Metadata
