@@ -1,0 +1,3 @@
+https://ccnadefinitions.com/
+  X-Frame-Options: SAMEORIGIN
+  Content-Security-Policy: script-src 'self'
