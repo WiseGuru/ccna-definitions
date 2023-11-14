@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/ccna/20-definitions/21-osi-layers/osi-encapsulation/"}
 ---
 
-Definition: When sender composes a packet, it gets packed up like a Russian doll from [[CCNA/20 - Definitions/21 - OSI Layers/Layer 7\|L7]] to [[CCNA/20 - Definitions/21 - OSI Layers/Layer 2\|L2]] before getting sent over the wire
+#### OSI Encapsulation
+- *OSI Encapsulation* is the process of *encapsulating* and *decapsulating* information for transport at the different layers of the [[CCNA/20 - Definitions/21 - OSI Layers/OSI Model\|OSI Model]]
+- When a client sends information, it gets packed up into different [[CCNA/20 - Definitions/PDU\|PDU]]s like a Russian doll from [[CCNA/20 - Definitions/21 - OSI Layers/Layer 7\|L7]] to [[CCNA/20 - Definitions/21 - OSI Layers/Layer 2\|L2]] before getting sent over the wire
 
-[OSI Reference Model](https://netcert.tripod.com/ccna/internetworking/osi.html)
+
 
 | OSI Layers   | TCP/IP Layers | PDU for each layer  | Data Encapsulation (1>7) | Data De-encapsulation (7>1) | 
 |:------------ |:------------- |:------------------- |:------------------------ |:--------------------------- |
@@ -16,7 +18,7 @@ Definition: When sender composes a packet, it gets packed up like a Russian doll
 | Data-Link    | Data-Link     | [[CCNA/20 - Definitions/802.3 Frames\|802.3 Frames]] | Bits>Frames              | Frames>Bits                 |
 | Physical     | Physical      | [[CCNA/20 - Definitions/bits\|bits]]            | -                        | -                           |
 
-![OSI Encapsulation-1.png|600](/img/user/Attachments/OSI%20Encapsulation-1.png)
+![OSI Encapsulation-2.png](/img/user/Attachments/OSI%20Encapsulation-2.png)
 
 
 # Metadata
@@ -27,3 +29,4 @@ Definition: When sender composes a packet, it gets packed up like a Russian doll
 ### Contributors
 
 ### Sources
+[OSI Reference Model](https://netcert.tripod.com/ccna/internetworking/osi.html)
