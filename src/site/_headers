@@ -1,3 +1,4 @@
 /*
   X-Frame-Options: SAMEORIGIN
   Permissions-Policy: document-domain=(self)
+  Content-Security-Policy-Report-Only: default-src 'self'
