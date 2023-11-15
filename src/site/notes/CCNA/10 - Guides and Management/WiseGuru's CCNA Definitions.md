@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/ccna/10-guides-and-management/wise-guru-s-ccna-definitions/","tags":["gardenEntry"]}
 ---
 
+##### Maintenance Outages 11/15/2023
+Sorry to anyone who has been trying to access the page over the last couple of days, I've been trying to get harden the security of the site by improving the site headers, and it's finally done for now. I'll create an outage/maintenance log and link it at the bottom of the page so people can check see the outage history (and you can plan study time around maintenance windows).
+
 Welcome to WiseGuru's *community-driven* site of **CCNA Definitions**! The goal of this is a living document is to provide you with *concise*, *relevant definitions* for any topic you might encounter on the **CCNA**. This is not a replacement for an *instructor-led course* or the [Cisco OCG](https://www.ciscopress.com/store/ccna-200-301-official-cert-guide-library-9781587147142), but should help reinforce what you've learned.
 
 This is (and always will be) a **work in progress**, and as such, it will have *incomplete* or *incorrect* information. I started this database of definitions in 2023 part-way through my own CCNA studies, and so some entries were never updated beyond creation or were never created at all.
