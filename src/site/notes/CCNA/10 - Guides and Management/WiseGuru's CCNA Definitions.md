@@ -3,7 +3,20 @@
 ---
 
 ##### Maintenance Outages 11/15/2023
-Sorry to anyone who has been trying to access the page over the last couple of days, I've been trying to get harden the security of the site by improving the site headers, and it's finally done for now. I'll create an outage/maintenance log and link it at the bottom of the page so people can check see the outage history (and you can plan study time around maintenance windows).
+Sorry to anyone who has been trying to access the page over the last couple of days, I've been trying to get harden the security of the site by adding headers [security headers](https://securityheaders.com/?q=https%3A%2F%2Fccnadefinitions.com%2F&followRedirects=on), and it's finally done (for now). Maintenance and outage history can now be found [[Maintenance\|here]], and any planned maintenance will be listed below.
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/maintenance/#planned-maintenance" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+# Planned Maintenance
+None
+
+
+
+</div></div>
+
 
 # CCNA Definitions
 
