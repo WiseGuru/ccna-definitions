@@ -5,7 +5,7 @@
 #### Routing Table
 - The *Routing Table* identifies [[CCNA/20 - Definitions/IP\|IP]] routes to networks
 	- The **most specific route** (e.g., the route with the *longest prefix*) is the route that is chosen for any given traffic
-- Routes can be *statically configured* by the administrator, or *dynamically added* through routing protocols like [[CCNA/20 - Definitions/RIP\|RIP]], [[CCNA/20 - Definitions/EIGRP\|EIGRP]], or [[CCNA/20 - Definitions/OSPF\|OSPF]]
+- Routes can be [[CCNA/20 - Definitions/Static route\|Static route]] by the administrator, or *dynamically added* through routing protocols like [[CCNA/20 - Definitions/RIP\|RIP]], [[CCNA/20 - Definitions/EIGRP\|EIGRP]], or [[CCNA/20 - Definitions/OSPF\|OSPF]]
 - How Routes are selected, from creation to packet forwarding
 	- Dynamic Routing Protocols choose routes to advertise based on *Metric*
 		- The *Metric* process is different for each protocol
@@ -37,8 +37,13 @@
 	- If there is no matching network on the table, the packet be forwarded out of the *Gateway of last resort*
 		- This the catch-all network, `0.0.0.0 0.0.0.0`, and the router that sits between the LAN and the WAN
 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/ccna/20-definitions/static-route/#i-pv6-routes" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
 #### IPv6 Routes
-- There are three kinds of IPv6 routes
+- There are three kinds of [[CCNA/20 - Definitions/IPv6\|IPv6]] routes
 	- *Directly Attached*
 		- Only points to the *exit interface*
 	- *Recursive*
@@ -49,7 +54,11 @@
 	- *Fully Specified*
 		- Identifies both the *exit interface* and the *next-hop* address
 
-#### Configure a Static Route
+
+</div></div>
+
+
+#### Configure a [[CCNA/20 - Definitions/Static route\|Static Route]]
 `config# ip route <destination> <subnet mask> <next hop> <opt: AD>`
 `config# ipv6 route <destination network and mask> <opt: exit interface> <opt: next hop address> <opt: AD>  `
 
