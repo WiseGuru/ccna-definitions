@@ -35,31 +35,31 @@
 1. **[[CCNA/20 - Definitions/HSRP\|Hot Standby Router Protocol (HSRP)]]**
 	1. #Cisco-Proprietary ; deployed in active/standby pairs
 	2. **This is what's covered in the CCNA**
-2. Virtual Router Redundancy Protocol (VRRP)
+2. [[CCNA/20 - Definitions/HSRP\|Virtual Router Redundancy Protocol (VRRP)]]
 	1. Open standard; deployed in active/standby pairs
-	2. Almost identical to HSRP.
-		1. One difference is HSRP uses "standby" and VRRP uses "vrrp"
+	2. Almost identical to [[CCNA/20 - Definitions/HSRP\|HSRP]].
+		1. One difference is [[CCNA/20 - Definitions/HSRP\|HSRP]] uses "standby" and VRRP uses "vrrp"
 3. Gateway Load Balancing Protocol (GLBP)
 	1. #Cisco-Proprietary ; supports active/active load balancing across multiple routers on the same subnet
 
 1. FHRP-activated routers communicate with each other by sending **multicast** Hello messages
 2. When FHRP is configured, the **Virtual IP address** should be configured as the default gateway for hosts
 3. The active FHRP router responds to [[CCNA/20 - Definitions/ARP\|ARP]] requests with a **virtual MAC address**
-4. HSRP uses **Active** and **Standby** routers
-	1. When HSRP Standby router switches to active, it will send **gratuitous ARP messages**
-	2. The HSRP active router is determined by **Highest priority**, then **highest IP address**
+4. [[CCNA/20 - Definitions/HSRP\|HSRP]] uses **Active** and **Standby** routers
+	1. When [[CCNA/20 - Definitions/HSRP\|HSRP]] Standby router switches to active, it will send **gratuitous ARP messages**
+	2. The [[CCNA/20 - Definitions/HSRP\|HSRP]] active router is determined by **Highest priority**, then **highest IP address**
 		1. The default priority is 100
 	3. HSRPv1
 		1. HSRPv1 Mutlicast address is **224.0.0.2**
 		2. Virtual MAC address format: **0000.0c07.acXX**
-			1. **(XX is HSRP group number)**
+			1. **(XX is [[CCNA/20 - Definitions/HSRP\|HSRP]] group number)**
 			2. This can be shortened to *0.c07*.acXX
 	4. HSRPv2
 		1. HSRPv2 Multicast address is **224.0.0.102**
 		2. Virtual MAC address format: **0000.0c9f.fXXX**
-			1. **(XXX is the HSRP group number)**
+			1. **(XXX is the [[CCNA/20 - Definitions/HSRP\|HSRP]] group number)**
 				1. This can be shortened to *0.c9f*.fXXX
-	5. HSRP Commands
+	5. [[CCNA/20 - Definitions/HSRP\|HSRP]] Commands
 		1. Assign virtual IP
 			1. `Config-if# standby (group number) ip (IP address)`
 		2. Configure priority
@@ -89,7 +89,7 @@
 ### OSI or TCP/IP Layer
 
 ### CCNA Exam Topic
-
+#extop-3-5 
 ### Contributors
 
 ### Sources
