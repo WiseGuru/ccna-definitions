@@ -15,7 +15,7 @@ CIDR notation uses a slash to describe the [[CCNA/20 - Definitions/IP subnet\|su
 ### OSI or TCP/IP Layer
 
 ### CCNA Exam Topic
-
+#extop-1-6 
 ### Contributors
 
 ### Sources
