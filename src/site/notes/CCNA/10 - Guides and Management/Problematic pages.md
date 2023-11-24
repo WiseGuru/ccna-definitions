@@ -39,7 +39,7 @@ These are pages that are shorter than they should be and/or don't exist.
 8. [[CCNA/20 - Definitions/WAN Topology\|WAN Topology]]
 9. [[CCNA/20 - Definitions/RC4\|RC4]]
 10. [[CCNA/20 - Definitions/WLAN\|WLAN]]
-11. [[CCNA/10 - Guides and Management/Configuring Routes\|Configuring Routes]]
+11. [[CCNA/20 - Definitions/25 - Mnemonics and Summaries/Configuring Routes\|Configuring Routes]]
 12. [[CCNA/20 - Definitions/VMs\|VMs]]
 13. [[CCNA/20 - Definitions/DH\|DH]]
 14. [[CCNA/20 - Definitions/FLSM\|FLSM]]
