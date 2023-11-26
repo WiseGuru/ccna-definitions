@@ -4,10 +4,11 @@
 
 #### IP Subnet
 *IP Subnets* are boundaries between logical networks in the IP space.
-- [[CCNA/20 - Definitions/IPv4\|IPv4]] Subnet masks can be written in dotted-decimal (e.g., 255.255.0.0), or in [[CCNA/20 - Definitions/CIDR\|CIDR]]/slash notation (e.g., /16).
+- 
+- [[CCNA/20 - Definitions/IPv4\|IPv4]] Subnet masks can be written in *dotted-decimal* (e.g., 255.255.0.0), or in [[CCNA/20 - Definitions/CIDR\|CIDR]]/slash notation (e.g., /16).
 - The first address in a subnet range is reserved for the Network Address, and the last address is reserved for the [[CCNA/20 - Definitions/Broadcast Address\|Broadcast]] Address
 	- Therefore, the number of host address is the size of the subnet range minus 2
-- It is the opposite of a [[CCNA/20 - Definitions/Wildcard mask\|Wildcard mask]]. 
+- A *subnet mask* is the opposite of a [[CCNA/20 - Definitions/Wildcard mask\|Wildcard mask]]. 
 
 ## Shortcuts for Subnet Masks and Network Classes
 - **n = prefix multiple of 8 (/0, /8, /16, /24, /32)
