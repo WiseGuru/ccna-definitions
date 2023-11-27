@@ -5,7 +5,7 @@
 ##### Cyber Monday Sale
 For an unlimited time, everything on this site is *Free*! Just take a deep breath, smile, and keep studying. You've got this :)
 
-I've just added a [[CCNA/20 - Definitions/25 - Mnemonics and Summaries/Subnetting Walk-through\|Subnetting Walk-through]]; if you're uncomfortable with Subnetting, give it a look! I'd love to hear any feedback.
+>I've just added a [[CCNA/20 - Definitions/25 - Mnemonics and Summaries/Subnetting Walk-through\|Subnetting Walk-through]]; if you're uncomfortable with **Subnetting**, give it a look! I'd love to hear any feedback.
 
 If you're struggling with a topic, or if there's an area that would help *you* in particular (*yes, you*) study, please let me know! Hit me up through this [Google Forms Survey](https://forms.gle/HmYY8zjdgzJQFiWr5), by submitting an [issue on GitHub](https://github.com/WiseGuru/ccna-definitions-vault/issues/new), or [ping me on Reddit (u/WiseGuruToTheMax)](https://www.reddit.com/user/WiseGuruToTheMax).
 
@@ -15,7 +15,10 @@ If you're struggling with a topic, or if there's an area that would help *you* i
 
 
 ### Planned Maintenance
+>**Disclaimer:** Because Cloudflare effectively rebuilds the site from scratch each time I update a page, you may notice some irregularities if you're looking at the site at the same time that an update is being pushed. This interruption should be brief, and otherwise have no impact on your use of the site.
+
 None
+
 
 
 
