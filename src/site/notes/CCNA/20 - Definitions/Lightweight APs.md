@@ -33,7 +33,7 @@
 			2. Data is sent from the SE-Connect AP to PCs running [[Cisco Spectrum Expert\|Cisco Spectrum Expert]] or [[MetaGeek Chanalyzer\|MetaGeek Chanalyzer]] for review
 		6. Sniffer
 			1. Functions purely as a wireless traffic receiver (does not broadcast SSID)
-			2. forwards all traffic to a machine running [[Wireshark\|Wireshark]] or [[OmniPeek\|OmniPeek]]
+			2. forwards all traffic to a machine running [[CCNA/20 - Definitions/Wireshark\|Wireshark]] or [[OmniPeek\|OmniPeek]]
 
 
 ### CLI Commands
