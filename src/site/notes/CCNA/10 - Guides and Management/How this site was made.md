@@ -89,7 +89,7 @@ After that, I went into Obsidian to push some changes, and it was up and running
 			1. ![How this site was made-13.png](/img/user/Attachments/How%20this%20site%20was%20made-13.png)
 		3. To merge the pull request, click the *green button above* and then click *confirm merge*
 			1. ![How this site was made-14.png](/img/user/Attachments/How%20this%20site%20was%20made-14.png)
-	3. This is strongly recommended; familiarize yourself with *Visual Studio Code*, Node.js, and *GitHub Desktop*
+	3. **This is strongly recommended**; familiarize yourself with *Visual Studio Code*, Node.js, and *GitHub Desktop*
 		1. Sometimes you gotta fix dependencies yourself for security updates, boy howdy, knowing how those work are key.
 			1. Relevant: [Package.json vs Package-lock.json](https://www.atatus.com/blog/package-json-vs-package-lock-json/)
 		2. You thought you were signing up for some free and easy way to upload your notes to the internet? Well with great power comes great security risks, and if you don't want some script kiddie owning your base, you should assume the people making free tools have overlooked something.
@@ -130,7 +130,8 @@ After that, I went into Obsidian to push some changes, and it was up and running
 		1. Cloudflare allows you to install custom headers^[[Headers · Cloudflare Pages docs](https://developers.cloudflare.com/pages/platform/headers/)] into your site
 			1. **This is critical**, as it can improve your site's security and reduce the likelihood of your visitors getting owned.
 			2. **NOTE**: I anticipate these headers will get overwritten when the *Digital Garden* releases an update, so you will have to re-apply them each time.
-			3. You can check your site's headers and see ways to remediate security issues with [Analyse your HTTP response headers](https://securityheaders.com)
+				1. This re-application is made much easier if you use *Github Desktop* and *Visual Studio Code* as mentioned before
+			3. You can check your site's headers and see ways to remediate security issues with [Analyze your HTTP response headers](https://securityheaders.com)
 		2. To add security headers:
 			1. Create a file called `_headers`^[Not `_headers.txt`, not `headers`, and for godsake not `TheseAreMySecurityHeadersForMyCloudflareSite.txt.xml.zip.tar.gz`] in the folder "/src/site"
 				1. Enter the following code:
@@ -154,7 +155,7 @@ After that, I went into Obsidian to push some changes, and it was up and running
 					2. Feel free to experiment with something like [Csper](https://csper.io/), though it's going to require constant maintenance whenever there's an update^[You can find additional CSP source values here: [CSP source values - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/Sources)]
 						1. For reference, here was my "*CSP*" policy after several rounds. Note that just adding the domain should have worked, but I just could not get it working.
 						2. ![How this site was made-19.png](/img/user/Attachments/How%20this%20site%20was%20made-19.png)
-						3. If you do use Csper^[[Chrome (CSP) Generator](https://chromewebstore.google.com/detail/content-security-policy-c/ahlnecfloencbkpfnpljbojmjkfgnmdc) and [Firefox (CSP) Generator](https://addons.mozilla.org/en-US/firefox/addon/csp-generator/)] to generate CSP code for your site, you will only have a 24-hour evaluation period before it's $50 a month *minimum*.
+						3. If you use Csper^[[Chrome (CSP) Generator](https://chromewebstore.google.com/detail/content-security-policy-c/ahlnecfloencbkpfnpljbojmjkfgnmdc) and [Firefox (CSP) Generator](https://addons.mozilla.org/en-US/firefox/addon/csp-generator/)] to generate CSP code for your site, you will only have a 24-hour evaluation period before it's $50 a month *minimum*.
 							1. And if you install the extension and add the CSP policy to your headers, you will need to make it all one line
 							2. Also, add a `?v=1` to the end of the report-uri (like `endpoint.csper.io?v=1;`) to track changes in policy.
 								1. This is important for when you try to update your code with Csper, and for some reason doesn't happen by default.
