@@ -98,9 +98,9 @@ Anywhere, here you go:
 		1. Quick Start Guide
 			1. Click "*Review Settings*" in the *Quick Start Guide* pane
 				1. ![How this site was made-15.png](/img/user/Attachments/How%20this%20site%20was%20made-15.png)
-			2. Enable Automatic HTTPS rewrites
+			2. Enable *Automatic HTTPS rewrites*
 			3. Enable *Always Use HTTPS*
-			4. Your choice whether to enable or disable Brotli compression; I couldn't find anything indicating it was insecure to use, and is apparently a [A Fast Alternative to GZIP Compression](https://kinsta.com/blog/brotli-compression/)
+			4. Your choice whether to *enable* or *disable* *Brotli* compression; I couldn't find anything indicating it was insecure to use, and is apparently a [A Fast Alternative to GZIP Compression](https://kinsta.com/blog/brotli-compression/)
 		2. SSL/TLS
 			6. In the left column, select "*SSL/TLS*"
 			7. Under "*Overview*", select "*Full (Strict)*"
@@ -134,8 +134,7 @@ Anywhere, here you go:
 			3. You can check your site's headers and see ways to remediate security issues with [Analyze your HTTP response headers](https://securityheaders.com)
 		2. To add security headers:
 			1. Create a file called `_headers`^[Not `_headers.txt`, not `headers`, and for godsake not `TheseAreMySecurityHeadersForMyCloudflareSite.txt.xml.zip.tar.gz`] in the folder "/src/site"
-				1. Enter the following code:
-					1. 
+				1. Enter the following code: 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
