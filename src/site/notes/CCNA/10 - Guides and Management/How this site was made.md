@@ -102,11 +102,11 @@ Anywhere, here you go:
 			3. Enable *Always Use HTTPS*
 			4. Your choice whether to *enable* or *disable* *Brotli* compression; I couldn't find anything indicating it was insecure to use, and is apparently a [A Fast Alternative to GZIP Compression](https://kinsta.com/blog/brotli-compression/)
 		2. SSL/TLS
-			6. In the left column, select "*SSL/TLS*"
-			7. Under "*Overview*", select "*Full (Strict)*"
+			1. In the left column, select "*SSL/TLS*"
+			2. Under "*Overview*", select "*Full (Strict)*"
 				1. If you're squeamish, choose "*Full*"
 				2. Because the whole site is hosted on Cloudflare, you shouldn't have to create any additional certificates
-			8. Under "*Edge Certificates*"
+			3. Under "*Edge Certificates*"
 				1. Enable "*HTTP Strict Transport Security (HSTS)*";^[[HSTS Preload List Submission](https://hstspreload.org)]^[[The HTTPS-Only Standard - HTTP Strict Transport Security](https://https.cio.gov/hsts/)] this brings up a big scary menu. Check the box and click *Next*, and choose the options in the following menu:
 					1. Enable HSTS
 					2. Max Age - 1 Year
