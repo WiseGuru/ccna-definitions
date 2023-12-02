@@ -134,7 +134,8 @@ Anywhere, here you go:
 			3. You can check your site's headers and see ways to remediate security issues with [Analyze your HTTP response headers](https://securityheaders.com)
 		2. To add security headers:
 			1. Create a file called `_headers`^[Not `_headers.txt`, not `headers`, and for godsake not `TheseAreMySecurityHeadersForMyCloudflareSite.txt.xml.zip.tar.gz`] in the folder "/src/site"
-				1. Enter the following code: 
+				1. Enter the following code:
+					1. 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
