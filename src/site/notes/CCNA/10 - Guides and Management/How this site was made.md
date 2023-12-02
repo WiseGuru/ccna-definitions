@@ -163,14 +163,15 @@ Anywhere, here you go:
 				1. `eleventyConfig.addPassthroughCopy("src/site/_headers");`
 				2. ![How this site was made-18.png](/img/user/Attachments/How%20this%20site%20was%20made-18.png)
 		3. To verify that your headers have been added, under "*Deployment Details*", you can click on the *Headers* tab and see what was added
-			2. Successful addition of headers
-				1. ![How this site was made-16.png](/img/user/Attachments/How%20this%20site%20was%20made-16.png)
-			3. Failed addition of headers
+			1. Successful addition of headers
+				2. ![How this site was made-16.png](/img/user/Attachments/How%20this%20site%20was%20made-16.png)
+			2. Failed addition of headers
 				1. ![How this site was made-17.png](/img/user/Attachments/How%20this%20site%20was%20made-17.png)
 		4. You can also go to [Security Header Scanner by Probely](https://securityheaders.com) to view your site's current headers
 13. Troubleshooting
 	1. You see a bunch of Failed deployments in Cloudflare to "Filetree"
-		1. Make sure the *Main* branch is set as "Default" in GitHub
+		1. This probably only happened if you included the branches from the template
+		2. Make sure the *Main* branch is set as "Default" in GitHub
 
 
 
