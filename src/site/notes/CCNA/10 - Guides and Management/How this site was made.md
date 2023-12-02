@@ -12,13 +12,15 @@ The *KEY* when publishing to Cloudflare is the **Build Configuration**. Specific
 
 Anywhere, here you go:
 ## Steps to Publish Cloudflare (WIP)
+### Prep-work
 1. Install the [Digital Garden plugin](obsidian://show-plugin?id=digitalgarden) on your [Obsidian app](https://obsidian.md/)
 2. Create a GitHub account (if you don't already have one).
 3. Create a Cloudflare account.
-4. Go to [this repo](https://github.com/oleeskild/digitalgarden), click "*Use this Template*," and select "*Create a new repository*"
+### Setup GitHub
+1. Go to [this repo](https://github.com/oleeskild/digitalgarden), click "*Use this Template*," and select "*Create a new repository*"
 	1. ![How this site was made-4.png](/img/user/Attachments/How%20this%20site%20was%20made-4.png)
 		1. **NOTE**: If you don't see the *Template* button, you may need to either maximize the page or zoom out.
-5. Configure the new repo
+2. Configure the new repo
 	1. **Do not** check the box to "*Include all branches*"
 	2. Enter a name and description for the repository
 	3. Set the repository as *Public* or *Private*
@@ -46,7 +48,8 @@ Anywhere, here you go:
 	7. Generate token - **DO NOT EXIT THIS PAGE**
 		1. This is the only time on GitHub that you will be able to see this token
 		2. Feel free to save it to your preferred password manager or copy it right into the Obsidian plugin
-7. Configure the Digital Garden plugin in Obsidian
+### Setup Obsidian
+1. Configure the Digital Garden plugin in Obsidian
 	1. You may have to re-apply these settings after you configure Cloudflare
 	2. Nothing here is hard and fast, but some observations I've made:
 		1. I like turning almost all of the Features on
@@ -58,7 +61,7 @@ Anywhere, here you go:
 		5. WARNING: Add Timestamps to pages
 			1. When I did this, it brought down CCNADefinitions, so I will need to experiment with another site until I can get it working.
 	3. If you have any questions, check out the [Digital Garden guide](https://dg-docs.ole.dev/) or [join the Discord server](https://discord.gg/Z46n2RNX8e)
-8. Create some content
+2. Create some content
 	1. Set up a homepage and configure it to publish
 	   ![How this site was made-10.png|250](/img/user/Attachments/How%20this%20site%20was%20made-10.png)
 		1. You must have ONE homepage with a checkbox
@@ -67,33 +70,22 @@ Anywhere, here you go:
 		1. ![How this site was made-11.png](/img/user/Attachments/How%20this%20site%20was%20made-11.png)
 		2. **NOTE**: You can configure hotkeys to make publication easier.
 			1. ![How this site was made-21.png](/img/user/Attachments/How%20this%20site%20was%20made-21.png)
-1. Configure Cloudflare
-	1. Log in to Cloudflare, expand the left menu bar, expand *Workers and Pages*, select *Overview*, and click *Create Application*
-	   ![How this site was made-6.png](/img/user/Attachments/How%20this%20site%20was%20made-6.png)
-	2. Connect it to your GIT account
-	   ![How this site was made-7.png](/img/user/Attachments/How%20this%20site%20was%20made-7.png)
-		1. NOTE: If you've done this before, you'll have to select "*Add account*" for the new repo to appear 
-		   ![How this site was made-8.png|500](/img/user/Attachments/How%20this%20site%20was%20made-8.png)
-	3. Configure the deployment 
-	   ![How this site was made-9.png|500](/img/user/Attachments/How%20this%20site%20was%20made-9.png)
-		1. Enter the project name (default is the Repo name)
-		2. Set production branch to *Main*
-		3. Leave the *Framework* preset as default or set to *Eleventy*
-			1. I don't think this matters, as we immediately change the commands afterward
-		4. Set the *Build command* to `npm run build`
-		5. Set the *Build output directory* to `dist`
-10. Configure Security and Dependency Updates in GitHub
-	1. **NOTE**: If you apply updates through Dependabot, *Digital Garden* updates overwrite them, and you may be required to re-apply them. However, *it's better to be running patched* than unpatched, and *it's not that hard*.
-	2. In the Repo, navigate to "*Settings*," *Code security and analysis*, and enable Dependabot *Alerts* and *Security Updates*
-		1. ![How this site was made-12.png](/img/user/Attachments/How%20this%20site%20was%20made-12.png)
-		2. When there is a dependency update or security issue, Dependabot will create a pull request, and Cloudflare will test the build in a preview to make sure it builds correctly.
-			1. ![How this site was made-13.png](/img/user/Attachments/How%20this%20site%20was%20made-13.png)
-		3. To merge the pull request, click the *green button above* and then click *confirm merge*
-			1. ![How this site was made-14.png](/img/user/Attachments/How%20this%20site%20was%20made-14.png)
-	3. **This is strongly recommended**; familiarize yourself with *Visual Studio Code*, Node.js, and *GitHub Desktop*^[What, you thought you were signing up for some free and easy way to upload your notes to the internet? Well with great power comes great security risks, and if you don't want some script kiddie owning your base, you should assume the people making free tools have overlooked something. Sometimes you gotta fix dependencies yourself for security updates, and boy howdy, knowing how these tools work is key]
-		1. **This section will be updated later**
-			1. Relevant: [Package.json vs Package-lock.json](https://www.atatus.com/blog/package-json-vs-package-lock-json/)
-12. Add other security features
+### Configure Cloudflare
+1. Log in to Cloudflare, expand the left menu bar, expand *Workers and Pages*, select *Overview*, and click *Create Application*
+	1. ![How this site was made-6.png](/img/user/Attachments/How%20this%20site%20was%20made-6.png)
+2. Connect it to your GIT account
+	1. ![How this site was made-7.png](/img/user/Attachments/How%20this%20site%20was%20made-7.png)
+	2. **NOTE**: If you've done this before, you'll have to select "*Add account*" for the new repo to appear 
+	   ![How this site was made-8.png|500](/img/user/Attachments/How%20this%20site%20was%20made-8.png)
+3. Configure the deployment 
+	1. ![How this site was made-9.png|500](/img/user/Attachments/How%20this%20site%20was%20made-9.png)
+	2. Enter the project name (default is the Repo name)
+	3. Set production branch to *Main*
+	4. Leave the *Framework* preset as default or set to *Eleventy*
+		1. I don't think this matters, as we immediately change the commands afterward
+	5. Set the *Build command* to `npm run build`
+	6. Set the *Build output directory* to `dist`
+4. Add other security features
 	1. From [your Cloudflare dashboard](https://dash.cloudflare.com), select your site. From the main panel or left column, choose:
 		1. Quick Start Guide
 			1. Click "*Review Settings*" in the *Quick Start Guide* pane
@@ -126,16 +118,28 @@ Anywhere, here you go:
 			2. Challenge Passage: *Your preference* (Default 30 minutes)
 				1. If a suspicious visitor gets past the challenge, this dictates how frequently they are re-challenged
 				2. *Default* is *30* *minutes*, and based on your testing for Security Level (e.g., if it trips when you're using a VPN), I would set the time period higher^[[Life of a Tor user : r/TOR](https://www.reddit.com/r/TOR/comments/187rfbh/life_of_a_tor_user/)]
-	2. Headers
-		1. Cloudflare allows you to install custom headers^[[Headers · Cloudflare Pages docs](https://developers.cloudflare.com/pages/platform/headers/)] into your site
-			1. **This is critical**, as it can improve your site's security and reduce the likelihood of your visitors getting owned.
-			2. **NOTE**: I anticipate these headers will get overwritten when the *Digital Garden* releases an update, so you will have to re-apply them each time.
-				1. This re-application is made much easier if you use *Github Desktop* and *Visual Studio Code* as mentioned before
-			3. You can check your site's headers and see ways to remediate security issues with [Analyze your HTTP response headers](https://securityheaders.com)
-		2. To add security headers:
-			1. Create a file called `_headers`^[Not `_headers.txt`, not `headers`, and for godsake not `TheseAreMySecurityHeadersForMyCloudflareSite.txt.xml.zip.tar.gz`] in the folder "/src/site"
-				1. Enter the following code:
-					1. 
+### (OPT): Configure Dependabot and Custom Headers
+1. Configure Security and Dependency Updates in GitHub
+	1. **NOTE**: If you apply updates through Dependabot, *Digital Garden* updates overwrite them, and you may be required to re-apply them. However, *it's better to be running patched* than unpatched, and *it's not that hard*.
+	2. In the Repo, navigate to "*Settings*," *Code security and analysis*, and enable Dependabot *Alerts* and *Security Updates*
+		1. ![How this site was made-12.png](/img/user/Attachments/How%20this%20site%20was%20made-12.png)
+		2. When there is a dependency update or security issue, Dependabot will create a pull request, and Cloudflare will test the build in a preview to make sure it builds correctly.
+			1. ![How this site was made-13.png](/img/user/Attachments/How%20this%20site%20was%20made-13.png)
+		3. To merge the pull request, click the *green button above* and then click *confirm merge*
+			1. ![How this site was made-14.png](/img/user/Attachments/How%20this%20site%20was%20made-14.png)
+	3. **This is strongly recommended**; familiarize yourself with *Visual Studio Code*, Node.js, and *GitHub Desktop*^[What, you thought you were signing up for some free and easy way to upload your notes to the internet? Well with great power comes great security risks, and if you don't want some script kiddie owning your base, you should assume the people making free tools have overlooked something. Sometimes you gotta fix dependencies yourself for security updates, and boy howdy, knowing how these tools work is key]
+		1. **This section will be updated later**
+			1. Relevant: [Package.json vs Package-lock.json](https://www.atatus.com/blog/package-json-vs-package-lock-json/)
+2. Headers
+	1. Cloudflare allows you to install custom headers^[[Headers · Cloudflare Pages docs](https://developers.cloudflare.com/pages/platform/headers/)] into your site
+		1. **This is critical**, as it can improve your site's security and reduce the likelihood of your visitors getting owned.
+		2. **NOTE**: I anticipate these headers will get overwritten when the *Digital Garden* releases an update, so you will have to re-apply them each time.
+			1. This re-application is made much easier if you use *Github Desktop* and *Visual Studio Code* as mentioned before
+		3. You can check your site's headers and see ways to remediate security issues with [Analyze your HTTP response headers](https://securityheaders.com)
+	2. To add security headers:
+		1. Create a file called `_headers`^[Not `_headers.txt`, not `headers`, and for godsake not `TheseAreMySecurityHeadersForMyCloudflareSite.txt.xml.zip.tar.gz`] in the folder "/src/site"
+			1. Enter the following code:
+				1. 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -148,31 +152,31 @@ Anywhere, here you go:
 
 </div></div>
 
-				2. If you run a [header security scan](https://securityheaders.com) against your site, you will get warnings about"*Content Security Policy (CSP)*", and now you're screaming at me through your monitor "Oh Max, HOW could you have led me astray?!?" Instead, you should thank me for sparing you from the madness that is *CSP* and *Digital Garden.*
-					1. *Digital Garden* is absolutely **broken** when it comes to CSP
-						1. Tons of on-page scripts make it effectively impossible to implement
-						2. Additionally, there are tons of remotely-hosted scripts, and literally nothing I try works.
-					2. Feel free to experiment with something like [Csper](https://csper.io/), though it's going to require constant maintenance whenever there's an update^[You can find additional CSP source values here: [CSP source values - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/Sources)]
-						1. For reference, here was my "*CSP*" policy after several rounds (see *version=5* at the end, but I only started counting when I experimented with Csper). Just adding the domain that hosted the scrips should have worked, without spelling out the specific scripts^[I know adding other domains is less secure, but it could have required extra steps for an attacker], but I just could not get it working.
-						2. ![How this site was made-19.png](/img/user/Attachments/How%20this%20site%20was%20made-19.png)
-						3. If you use Csper^[Which has plugins for [Chrome (CSP) Generator](https://chromewebstore.google.com/detail/content-security-policy-c/ahlnecfloencbkpfnpljbojmjkfgnmdc) and [Firefox (CSP) Generator](https://addons.mozilla.org/en-US/firefox/addon/csp-generator/)] to generate CSP code for your site, you will only have a 24-hour evaluation period before it's $50 a month *minimum*.
-							1. And if you install the extension and add the CSP policy to your headers, you will need to make it all one line
-							2. Also, add a `?v=1` to the end of the report-uri (like `endpoint.csper.io?v=1;`) to track changes in policy.
-								1. This is important for when you try to update your code with Csper, and for some reason doesn't happen by default.
-								2. Once added, it increments automatically.
-			2. Modify the `.eleventy.js` file to add a passthrough for the `_headers` file
-				1. `eleventyConfig.addPassthroughCopy("src/site/_headers");`
-				2. ![How this site was made-18.png](/img/user/Attachments/How%20this%20site%20was%20made-18.png)
-		3. To verify that your headers have been added, under "*Deployment Details*", you can click on the *Headers* tab and see what was added
-			1. Successful addition of headers
-				2. ![How this site was made-16.png](/img/user/Attachments/How%20this%20site%20was%20made-16.png)
-			2. Failed addition of headers
-				1. ![How this site was made-17.png](/img/user/Attachments/How%20this%20site%20was%20made-17.png)
-		4. You can also go to [Security Header Scanner by Probely](https://securityheaders.com) to view your site's current headers
-13. Troubleshooting
-	1. You see a bunch of Failed deployments in Cloudflare to "Filetree"
-		1. This probably only happened if you included the branches from the template
-		2. Make sure the *Main* branch is set as "Default" in GitHub
+			2. If you run a [header security scan](https://securityheaders.com) against your site, you will get warnings about"*Content Security Policy (CSP)*", and now you're screaming at me through your monitor "Oh Max, HOW could you have led me astray?!?" Instead, you should thank me for sparing you from the madness that is *CSP* and *Digital Garden.*
+				1. *Digital Garden* is absolutely **broken** when it comes to CSP
+					1. Tons of on-page scripts make it effectively impossible to implement
+					2. Additionally, there are tons of remotely-hosted scripts, and literally nothing I try works.
+				2. Feel free to experiment with something like [Csper](https://csper.io/), though it's going to require constant maintenance whenever there's an update^[You can find additional CSP source values here: [CSP source values - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/Sources)]
+					1. For reference, here was my "*CSP*" policy after several rounds (see *version=5* at the end, but I only started counting when I experimented with Csper). Just adding the domain that hosted the scrips should have worked, without spelling out the specific scripts^[I know adding other domains is less secure, but it could have required extra steps for an attacker], but I just could not get it working.
+					2. ![How this site was made-19.png](/img/user/Attachments/How%20this%20site%20was%20made-19.png)
+					3. If you use Csper^[Which has plugins for [Chrome (CSP) Generator](https://chromewebstore.google.com/detail/content-security-policy-c/ahlnecfloencbkpfnpljbojmjkfgnmdc) and [Firefox (CSP) Generator](https://addons.mozilla.org/en-US/firefox/addon/csp-generator/)] to generate CSP code for your site, you will only have a 24-hour evaluation period before it's $50 a month *minimum*.
+						1. And if you install the extension and add the CSP policy to your headers, you will need to make it all one line
+						2. Also, add a `?v=1` to the end of the report-uri (like `endpoint.csper.io?v=1;`) to track changes in policy.
+							1. This is important for when you try to update your code with Csper, and for some reason doesn't happen by default.
+							2. Once added, it increments automatically.
+		2. Modify the `.eleventy.js` file to add a passthrough for the `_headers` file
+			1. `eleventyConfig.addPassthroughCopy("src/site/_headers");`
+			2. ![How this site was made-18.png](/img/user/Attachments/How%20this%20site%20was%20made-18.png)
+	3. To verify that your headers have been added, under "*Deployment Details*", you can click on the *Headers* tab and see what was added
+		1. Successful addition of headers
+			2. ![How this site was made-16.png](/img/user/Attachments/How%20this%20site%20was%20made-16.png)
+		2. Failed addition of headers
+			1. ![How this site was made-17.png](/img/user/Attachments/How%20this%20site%20was%20made-17.png)
+	4. You can also go to [Security Header Scanner by Probely](https://securityheaders.com) to view your site's current headers
+### Troubleshooting
+1. You see a bunch of Failed deployments in Cloudflare to "Filetree"
+	1. This probably only happened if you included the branches from the template
+	2. Make sure the *Main* branch is set as "Default" in GitHub
 
 
 
