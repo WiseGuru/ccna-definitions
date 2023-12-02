@@ -147,14 +147,14 @@ Anywhere, here you go:
 
 </div></div>
 
-				2. If you run a [header security scan](https://securityheaders.com) against your site, you will get warnings about"*Content Security Policy (CSP)*", and you're screaming at my through your monitor "Oh Max, HOW could you have led me astray?!?" Instead, be thankful for the madness I spared you from.
+				2. If you run a [header security scan](https://securityheaders.com) against your site, you will get warnings about"*Content Security Policy (CSP)*", and now you're screaming at me through your monitor "Oh Max, HOW could you have led me astray?!?" Instead, you should thank me for sparing you from the madness that is *CSP* and *Digital Garden.*
 					1. *Digital Garden* is absolutely **broken** when it comes to CSP
-						2. Tons of on-page scripts make it effectively impossible to implement
-						3. Additionally, there are tons of remotely-hosted scripts, and literally nothing I do works.
+						1. Tons of on-page scripts make it effectively impossible to implement
+						2. Additionally, there are tons of remotely-hosted scripts, and literally nothing I try works.
 					2. Feel free to experiment with something like [Csper](https://csper.io/), though it's going to require constant maintenance whenever there's an update^[You can find additional CSP source values here: [CSP source values - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/Sources)]
-						1. For reference, here was my "*CSP*" policy after several rounds. Note that just adding the domain should have worked, but I just could not get it working.
+						1. For reference, here was my "*CSP*" policy after several rounds (see *version=5* at the end, but I only started counting when I experimented with Csper). Just adding the domain that hosted the scrips should have worked, without spelling out the specific scripts^[I know adding other domains is less secure, but it could have required extra steps for an attacker], but I just could not get it working.
 						2. ![How this site was made-19.png](/img/user/Attachments/How%20this%20site%20was%20made-19.png)
-						3. If you use Csper^[[Chrome (CSP) Generator](https://chromewebstore.google.com/detail/content-security-policy-c/ahlnecfloencbkpfnpljbojmjkfgnmdc) and [Firefox (CSP) Generator](https://addons.mozilla.org/en-US/firefox/addon/csp-generator/)] to generate CSP code for your site, you will only have a 24-hour evaluation period before it's $50 a month *minimum*.
+						3. If you use Csper^[Which has plugins for [Chrome (CSP) Generator](https://chromewebstore.google.com/detail/content-security-policy-c/ahlnecfloencbkpfnpljbojmjkfgnmdc) and [Firefox (CSP) Generator](https://addons.mozilla.org/en-US/firefox/addon/csp-generator/)] to generate CSP code for your site, you will only have a 24-hour evaluation period before it's $50 a month *minimum*.
 							1. And if you install the extension and add the CSP policy to your headers, you will need to make it all one line
 							2. Also, add a `?v=1` to the end of the report-uri (like `endpoint.csper.io?v=1;`) to track changes in policy.
 								1. This is important for when you try to update your code with Csper, and for some reason doesn't happen by default.
