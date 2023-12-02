@@ -90,11 +90,9 @@ Anywhere, here you go:
 			1. ![How this site was made-13.png](/img/user/Attachments/How%20this%20site%20was%20made-13.png)
 		3. To merge the pull request, click the *green button above* and then click *confirm merge*
 			1. ![How this site was made-14.png](/img/user/Attachments/How%20this%20site%20was%20made-14.png)
-	3. **This is strongly recommended**; familiarize yourself with *Visual Studio Code*, Node.js, and *GitHub Desktop*
+	3. **This is strongly recommended**; familiarize yourself with *Visual Studio Code*, Node.js, and *GitHub Desktop*^[What, you thought you were signing up for some free and easy way to upload your notes to the internet? Well with great power comes great security risks, and if you don't want some script kiddie owning your base, you should assume the people making free tools have overlooked something. Sometimes you gotta fix dependencies yourself for security updates, and boy howdy, knowing how these tools work is key]
 		1. **This section will be updated later**
-		2. Sometimes you gotta fix dependencies yourself for security updates, boy howdy, knowing how those work are key.
 			1. Relevant: [Package.json vs Package-lock.json](https://www.atatus.com/blog/package-json-vs-package-lock-json/)
-		3. You thought you were signing up for some free and easy way to upload your notes to the internet? Well with great power comes great security risks, and if you don't want some script kiddie owning your base, you should assume the people making free tools have overlooked something.
 12. Add other security features
 	1. From [your Cloudflare dashboard](https://dash.cloudflare.com), select your site. From the main panel or left column, choose:
 		1. Quick Start Guide
@@ -127,7 +125,7 @@ Anywhere, here you go:
 				3. I would advocate *Medium* and doing some testing from different browsers, using a VPN, etc., and downgrading if you feel it's necessary
 			2. Challenge Passage: *Your preference* (Default 30 minutes)
 				1. If a suspicious visitor gets past the challenge, this dictates how frequently they are re-challenged
-				2. *Default* is *30* *minutes*, and based on your testing for Security Level (e.g., if it trips when you're using a VPN), I would set the time period higher^[Life of a Tor user : r/TOR](https://www.reddit.com/r/TOR/comments/187rfbh/life_of_a_tor_user/)
+				2. *Default* is *30* *minutes*, and based on your testing for Security Level (e.g., if it trips when you're using a VPN), I would set the time period higher^[[Life of a Tor user : r/TOR](https://www.reddit.com/r/TOR/comments/187rfbh/life_of_a_tor_user/)]
 	2. Headers
 		1. Cloudflare allows you to install custom headers^[[Headers · Cloudflare Pages docs](https://developers.cloudflare.com/pages/platform/headers/)] into your site
 			1. **This is critical**, as it can improve your site's security and reduce the likelihood of your visitors getting owned.
