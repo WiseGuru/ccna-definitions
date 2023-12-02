@@ -4,29 +4,27 @@
 
 I published most of my CCNA notes using Ole's [GitHub - oleeskild/digitalgarden](https://github.com/oleeskild/digitalgarden) and [Cloudflare Pages](https://pages.cloudflare.com/). There are a couple of guides out there on this, but few of them actually solved my problems with Cloudflare specifically, so here you go!
 
-Until I actually get around to it, here's a link to the guide I used initially, but ran into problems with: [How I Published My Knowledge Base Online for Free](https://sharaf.cc/40-49-toolbox/40-note-taking/40-01-obsidian/guides/publish-obsidian-vault-for-free/)
+>Here's a link to the guide I used initially to setup this site and others. It's a little chaotic and includes some incorrect information, but here it is for posterity: [How I Published My Knowledge Base Online for Free](https://sharaf.cc/40-49-toolbox/40-note-taking/40-01-obsidian/guides/publish-obsidian-vault-for-free/)
 
-The *KEY* when publishing to Cloudflare is the **Build Configuration**. Specifically, I changed the "_build output directory_" from `/src/site` to `/dist`.
+The *KEY* when publishing to Cloudflare is the **Build Configuration**. Specifically, set the "*Build command*" to `npm run build` and the "*Build output directory*" to `/dist`.
 
 ![How this site was made-1.png](/img/user/Attachments/How%20this%20site%20was%20made-1.png)
 
-After that, I went into Obsidian to push some changes, and it was up and running! I had to tweak the settings a little bit to get them all showing correctly, but as you can see, everything is running fine.
-
+Anywhere, here you go:
 ## Steps to Publish Cloudflare (WIP)
-1. Download and install the Obsidian community plugin
+1. Install the [Digital Garden plugin](obsidian://show-plugin?id=digitalgarden) on your [Obsidian app](https://obsidian.md/)
 2. Create a GitHub account (if you don't already have one).
 3. Create a Cloudflare account.
-4. Go to [this repo](https://github.com/oleeskild/digitalgarden) and click "*Use this Template*," and select "*Create a new repository*"
+4. Go to [this repo](https://github.com/oleeskild/digitalgarden), click "*Use this Template*," and select "*Create a new repository*"
 	1. ![How this site was made-4.png](/img/user/Attachments/How%20this%20site%20was%20made-4.png)
-	2. NOTE: If you don't see it, you may need to either maximize the page or zoom out.
+		1. **NOTE**: If you don't see the *Template* button, you may need to either maximize the page or zoom out.
 5. Configure the new repo
-	1. I don't believe you need to copy all branches.
-		1. In fact, in my testing, it causes some problems (that can be easily overcome, but still)... best to stay away
+	1. **Do not** check the box to "*Include all branches*"
 	2. Enter a name and description for the repository
 	3. Set the repository as *Public* or *Private*
 		1. I don't think this should have any impact on the how the repo functions, since you give explicit permission to everything
-	4. Example configuration: 
-	   ![How this site was made-5.png](/img/user/Attachments/How%20this%20site%20was%20made-5.png)
+	4. Example configuration:^[I definitely didn't fix the branches button in post.] 
+	   ![How this site was made-20.png](/img/user/Attachments/How%20this%20site%20was%20made-20.png)
 6. Create an access token to the Repo for Digital Garden^[Oleeskild's guide to create a [fine grained access token](https://dg-docs.ole.dev/advanced/fine-grained-access-token/)]
 	1. Click on your profile icon at the top-right corner
 	2. Select "*Settings*"
