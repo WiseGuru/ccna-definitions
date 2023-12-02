@@ -47,8 +47,8 @@ Anywhere, here you go:
 		1. This is the only time on GitHub that you will be able to see this token
 		2. Feel free to save it to your preferred password manager or copy it right into the Obsidian plugin
 7. Configure the Digital Garden plugin in Obsidian
-	1. You may have to re-apply one of these for Cloudflare to pick it up later
-	2. Some observations I've made:
+	1. You may have to re-apply these settings after you configure Cloudflare
+	2. Nothing here is hard and fast, but some observations I've made:
 		1. I like turning almost all of the Features on
 			1. Excluding Frontmatter, which can break the site
 		2. Under appearance, I change the theme to match my current theme so I know what it will look like
@@ -57,14 +57,17 @@ Anywhere, here you go:
 			1. If you update the Favicon after you create your site, you may need to purge your browser's cache before you will see it reflected
 		5. WARNING: Add Timestamps to pages
 			1. When I did this, it brought down CCNADefinitions, so I will need to experiment with another site until I can get it working.
+	3. If you have any questions, check out the [Digital Garden guide](https://dg-docs.ole.dev/) or [join the Discord server](https://discord.gg/Z46n2RNX8e)
 8. Create some content
 	1. Set up a homepage and configure it to publish
 	   ![How this site was made-10.png|250](/img/user/Attachments/How%20this%20site%20was%20made-10.png)
 		1. You must have ONE homepage with a checkbox
 		2. Every page you wish to publish must have this flag enabled 
 	2. When ready, *Publish all notes* from the command pane
-	   ![How this site was made-11.png](/img/user/Attachments/How%20this%20site%20was%20made-11.png)
-9. Configure Cloudflare
+		1. ![How this site was made-11.png](/img/user/Attachments/How%20this%20site%20was%20made-11.png)
+		2. **NOTE**: You can configure hotkeys to make publication easier.
+			1. ![How this site was made-21.png](/img/user/Attachments/How%20this%20site%20was%20made-21.png)
+1. Configure Cloudflare
 	1. Log in to Cloudflare, expand the left menu bar, expand *Workers and Pages*, select *Overview*, and click *Create Application*
 	   ![How this site was made-6.png](/img/user/Attachments/How%20this%20site%20was%20made-6.png)
 	2. Connect it to your GIT account
@@ -78,9 +81,9 @@ Anywhere, here you go:
 		3. Leave the *Framework* preset as default or set to *Eleventy*
 			1. I don't think this matters, as we immediately change the commands afterward
 		4. Set the *Build command* to `npm run build`
-		5. Set the *Build output directory*
+		5. Set the *Build output directory* to `dist`
 10. Configure Security and Dependency Updates in GitHub
-	1. **NOTE**: If you apply updates through Dependabot, *Digital Garden* updates overwrite them, and you may be required to re-apply them.
+	1. **NOTE**: If you apply updates through Dependabot, *Digital Garden* updates overwrite them, and you may be required to re-apply them. However, *it's better to be running patched* than unpatched, and *it's not that hard*.
 	2. In the Repo, navigate to "*Settings*," *Code security and analysis*, and enable Dependabot *Alerts* and *Security Updates*
 		1. ![How this site was made-12.png](/img/user/Attachments/How%20this%20site%20was%20made-12.png)
 		2. When there is a dependency update or security issue, Dependabot will create a pull request, and Cloudflare will test the build in a preview to make sure it builds correctly.
@@ -88,9 +91,10 @@ Anywhere, here you go:
 		3. To merge the pull request, click the *green button above* and then click *confirm merge*
 			1. ![How this site was made-14.png](/img/user/Attachments/How%20this%20site%20was%20made-14.png)
 	3. **This is strongly recommended**; familiarize yourself with *Visual Studio Code*, Node.js, and *GitHub Desktop*
-		1. Sometimes you gotta fix dependencies yourself for security updates, boy howdy, knowing how those work are key.
+		1. **This section will be updated later**
+		2. Sometimes you gotta fix dependencies yourself for security updates, boy howdy, knowing how those work are key.
 			1. Relevant: [Package.json vs Package-lock.json](https://www.atatus.com/blog/package-json-vs-package-lock-json/)
-		2. You thought you were signing up for some free and easy way to upload your notes to the internet? Well with great power comes great security risks, and if you don't want some script kiddie owning your base, you should assume the people making free tools have overlooked something.
+		3. You thought you were signing up for some free and easy way to upload your notes to the internet? Well with great power comes great security risks, and if you don't want some script kiddie owning your base, you should assume the people making free tools have overlooked something.
 12. Add other security features
 	1. From [your Cloudflare dashboard](https://dash.cloudflare.com), select your site. From the main panel or left column, choose:
 		1. Quick Start Guide
