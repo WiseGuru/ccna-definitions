@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/collisions/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/collisions/","tags":["defs_ccna"],"created":"2023-11-12T18:40:19.000-08:00","updated":"2023-11-12T18:49:08.000-08:00"}
 ---
 
 #### Collisions
