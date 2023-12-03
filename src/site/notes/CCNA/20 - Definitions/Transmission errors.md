@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/transmission-errors/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/transmission-errors/","tags":["defs_ccna"],"created":"2023-11-12T19:35:15.000-08:00","updated":"2023-11-12T19:36:04.000-08:00"}
 ---
 
 
