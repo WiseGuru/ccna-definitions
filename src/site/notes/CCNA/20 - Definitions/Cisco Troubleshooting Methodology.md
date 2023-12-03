@@ -1,8 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/cisco-troubleshooting-methodology/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/cisco-troubleshooting-methodology/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-12-03T13:09:03.907-08:00"}
 ---
 
-The *Cisco Troubleshooting Methodology* is a 7-step process that loops back ad forth around itself. 
+The *Cisco Troubleshooting Methodology* is an 8-step process that loops back and forth around itself. **Always** (always, at any step, for any reason) **DOCUMENT** any and *all changes* that have been made.
+1. **Define the problem** in terms of *symptoms* and *potential causes*
+2. **Gather facts**
+	3. Ask affected users, and collect information from [[CCNA/20 - Definitions/NMS\|NMS]], [[CCNA/20 - Definitions/PCAP\|PCAP]]s, output from [[CCNA/20 - Definitions/25 - Mnemonics and Summaries/Diagnostic Commands\|Diagnostic Commands]], etc.
+3. **Analyze information** and **Eliminate potential causes**
+4. **Create an action plan** which changes *only one variable* at a time
+5. **Implement Action Plan**
+	1. *Document all changes made*
+6. **Gather results of each change**
+7. **Determine if issue is resolved**
+	1. If resolved, *document changes* and process is complete.
+8. **If unresolved, return to step 4**
+
+
+
+*Neil Anderson* with [FlackBox](https://www.flackbox.com/the-cisco-troubleshooting-methodology) proposes a similar but different strategy
 1. Define the problem
 2. Gather information
 3. Analyze information
@@ -37,5 +52,5 @@ There are 4 key troubleshooting styles
 ### Contributors
 
 ### Sources
-[Troubleshooting Overview  [Support] - Cisco Systems](https://www.cisco.com/en/US/docs/internetworking/troubleshooting/guide/tr1901.html)
+[Troubleshooting Overview Cisco Systems](https://www.cisco.com/en/US/docs/internetworking/troubleshooting/guide/tr1901.html)
 [The Cisco Troubleshooting Methodology - FlackBox](https://www.flackbox.com/the-cisco-troubleshooting-methodology)
