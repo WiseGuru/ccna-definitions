@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/udp/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/udp/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-12T18:23:43.000-08:00"}
 ---
 
 ### UDP
@@ -16,7 +16,7 @@
 	1. No mechanism like [[CCNA/20 - Definitions/TCP\|TCP]]'s *Window Size* to control flow of traffic
 6. Best used for streaming video/audio content
 #### UDP Header
-![UDP-header-1.png](/img/user/Attachments/UDP-header-1.png)
+![UDP-header-1.png](/img/user/Attachments/UDP-Header-1.png)
 Source: [Wikipedia](https://en.wikipedia.org/wiki/User_Datagram_Protocol#UDP_datagram_structure)
 #### Common protocols and ports:
 Port 69,  [[CCNA/20 - Definitions/TFTP\|TFTP]]
