@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/i-psec/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/i-psec/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-06T17:01:37.166-08:00"}
 ---
 
 #### IPsec
