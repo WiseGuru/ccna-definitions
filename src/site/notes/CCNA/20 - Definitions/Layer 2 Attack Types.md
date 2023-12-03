@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/layer-2-attack-types/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-08T14:30:50.731-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/layer-2-attack-types/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-12-03T14:40:38.052-08:00"}
 ---
 
 #### [[CCNA/20 - Definitions/VLAN\|VLAN]] Hopping
@@ -23,7 +23,7 @@
 - Mitigate with [[CCNA/20 - Definitions/DHCP Snooping\|DHCP Snooping]] to restrict *DHCP traffic* to *trusted ports*
 
 #### [[CCNA/20 - Definitions/ARP\|ARP]] Poisoning (or ARP Spoofing)
-- An attacker sends *Gratuitous ARP* messages to a host, associating the attacker's *MAC* address with another host's valid *IP* address
+- An attacker sends *[[CCNA/20 - Definitions/Gratuitous ARP\|Gratuitous ARP]]* messages to a host, associating the attacker's *MAC* address with another host's valid *IP* address
 - Mitigate with [[CCNA/20 - Definitions/DAI\|DAI]] to intercept and validate *ARP* messages
 
 
