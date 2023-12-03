@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/fhrp/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-19T12:21:07.084-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/fhrp/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-12-03T14:40:36.888-08:00"}
 ---
 
 #### FHRP
@@ -46,7 +46,7 @@
 2. When FHRP is configured, the **Virtual IP address** should be configured as the default gateway for hosts
 3. The active FHRP router responds to [[CCNA/20 - Definitions/ARP\|ARP]] requests with a **virtual MAC address**
 4. [[CCNA/20 - Definitions/HSRP\|HSRP]] uses **Active** and **Standby** routers
-	1. When [[CCNA/20 - Definitions/HSRP\|HSRP]] Standby router switches to active, it will send **gratuitous ARP messages**
+	1. When [[CCNA/20 - Definitions/HSRP\|HSRP]] Standby router switches to active, it will send **[[CCNA/20 - Definitions/Gratuitous ARP\|gratuitous ARP]] messages**
 	2. The [[CCNA/20 - Definitions/HSRP\|HSRP]] active router is determined by **Highest priority**, then **highest IP address**
 		1. The default priority is 100
 	3. HSRPv1
