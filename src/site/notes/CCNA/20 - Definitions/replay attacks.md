@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/replay-attacks/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/replay-attacks/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-07T11:29:11.759-08:00"}
 ---
 
 - A *replay attack* involves the attacker re-sending a frame that was already transmitted.
