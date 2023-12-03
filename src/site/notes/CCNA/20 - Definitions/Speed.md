@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/speed/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/speed/","tags":["defs_ccna"],"created":"2023-11-12T19:24:50.000-08:00","updated":"2023-11-12T19:35:13.000-08:00"}
 ---
 
 #### Transmission Speed
