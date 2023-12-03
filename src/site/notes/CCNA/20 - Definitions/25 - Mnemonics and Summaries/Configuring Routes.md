@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/configuring-routes/"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/configuring-routes/","created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-24T09:28:33.000-08:00"}
 ---
 
 
