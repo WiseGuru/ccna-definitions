@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/21-osi-layers/osi-encapsulation/"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/21-osi-layers/osi-encapsulation/","created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-14T09:45:36.000-08:00"}
 ---
 
 #### OSI Encapsulation
