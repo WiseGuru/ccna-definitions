@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/access-port/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/access-port/","tags":["defs_ccna"],"created":"2023-11-13T08:20:34.000-08:00","updated":"2023-11-13T08:21:05.000-08:00"}
 ---
 
 #### Access
