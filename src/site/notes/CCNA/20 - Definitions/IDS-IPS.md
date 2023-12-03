@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/ids-ips/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/ids-ips/","tags":["defs_ccna"],"created":"2023-11-11T11:59:46.000-08:00","updated":"2023-11-11T12:01:10.000-08:00"}
 ---
 
 #### IDS/IPS
