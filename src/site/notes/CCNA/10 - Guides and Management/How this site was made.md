@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/how-this-site-was-made/"}
+{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/how-this-site-was-made/","created":"2023-11-06T16:35:36.000-08:00","updated":"2023-12-02T14:24:49.000-08:00"}
 ---
 
 This is way beyond the scope of this site, and all the pictures were causing delays with site updates, so I've moved it to my other site, [Maxwell Hackswell](https://www.maxwellhackswell.com).
