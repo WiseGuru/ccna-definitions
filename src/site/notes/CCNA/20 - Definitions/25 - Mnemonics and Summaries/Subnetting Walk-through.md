@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/subnetting-walk-through/"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/subnetting-walk-through/","created":"2023-11-24T09:28:54.000-08:00","updated":"2023-11-25T17:37:06.000-08:00"}
 ---
 
 [[CCNA/20 - Definitions/IP subnet\|Subnetting]] is the practice of dividing a network into smaller subnetworks.
