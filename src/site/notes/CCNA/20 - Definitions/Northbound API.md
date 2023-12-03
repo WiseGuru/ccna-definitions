@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/northbound-api/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/northbound-api/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-08T14:27:34.898-08:00"}
 ---
 
 #### Northbound Interface/[[CCNA/20 - Definitions/API\|API]]
