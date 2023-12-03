@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/dhcp-snooping/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-08T14:01:38.950-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/dhcp-snooping/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-12-03T15:44:52.765-08:00"}
 ---
 
 #### DHCP Snooping
 - *DHCP Snooping* inspects [[CCNA/20 - Definitions/DHCP\|DHCP]] packets to prevent networking problems and attacks from rogue DHCP servers
 - Compares addresses on the *DHCP Snooping binding* table
 	- The *binding* table records the Client's *MAC* address, *IP* address, IP *Lease* time, and *VLAN* to its *interface*
-		- ![DHCP Snooping Binding table-1.png](/img/user/Attachments/DHCP%20Snooping%20Binding%20table-1.png)
+		- ![DHCP Snooping-1.png](/img/user/Attachments/DHCP%20Snooping-1.png)^[Source: Original]
 	- [[CCNA/20 - Definitions/DAI\|DAI]] also uses the *Snooping table* in its frame validation
 - It identifies ports as *Trusted* or *Untrusted*
 	- **Trusted** ports *forward all DHCP* messages without inspection
@@ -92,7 +92,7 @@
 ### OSI or TCP/IP Layer
 
 ### CCNA Exam Topic
-
+#extop-5-7 
 ### Contributors
 
 ### Sources
