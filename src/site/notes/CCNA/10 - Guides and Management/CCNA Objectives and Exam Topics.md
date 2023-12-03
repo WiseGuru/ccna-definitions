@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/ccna-objectives-and-exam-topics/"}
+{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/ccna-objectives-and-exam-topics/","created":"2023-11-11T11:13:21.000-08:00","updated":"2023-12-03T13:42:05.144-08:00"}
 ---
 
 Below are the CCNA objectives (and their respective tags), according to Cisco's site as of 11/11/2023. 
@@ -36,7 +36,7 @@ Below are the CCNA objectives (and their respective tags), according to Cisco's 
 | #extop-2-5  | Interpret basic operations of Rapid PVST+ Spanning Tree Protocol                                                                                                    |
 | #extop-2-6  | Describe Cisco Wireless Architectures and AP modes                                                                                                                  |
 | #extop-2-7  | Describe physical infrastructure connections of WLAN components (AP, WLC,<br/>access/trunk ports, and LAG)                                                          |
-| #extop-2-8  | Describe AP and WLC management access connections (Telnet, SSH, HTTP, HTTPS, console, and TACACS+/RADIUS)                                                           |
+| #extop-2-8  | Describe AP and WLC management access connections ([[CCNA/20 - Definitions/Telnet\|Telnet]], SSH, HTTP, HTTPS, console, and TACACS+/RADIUS)                                                           |
 | #extop-2-9  | Interpret the wireless LAN GUI configuration for client connectivity, such as WLAN creation, security settings, QoS profiles, and advanced settings                 |
 | #extop-3-1  | Interpret the components of routing table                                                                                                                           |
 | #extop-3-2  | Determine how a router makes a forwarding decision by default                                                                                                       |
