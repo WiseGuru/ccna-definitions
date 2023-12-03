@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/isl/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/isl/","tags":["defs_ccna"],"created":"2023-11-07T09:28:44.878-08:00","updated":"2023-11-07T09:30:45.941-08:00"}
 ---
 
 #### ISL
