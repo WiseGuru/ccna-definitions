@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/tcp/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/tcp/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-12T18:23:28.000-08:00"}
 ---
 
 ## TCP
@@ -56,7 +56,7 @@ TCP uses **Forward Acknowledgement** to sequence messages
 ### Common Protocols
 Port 21, [[FTP\|FTP]]
 Port 22, [[CCNA/20 - Definitions/SSH\|SSH]]
-Port 23, [[Telnet\|Telnet]]
+Port 23, [[CCNA/20 - Definitions/Telnet\|Telnet]]
 Port 53, [[CCNA/20 - Definitions/DNS\|DNS]]
 Port 80, [[CCNA/20 - Definitions/HTTP\|HTTP]]
 Port 443, [[CCNA/20 - Definitions/HTTP\|HTTPS]]
