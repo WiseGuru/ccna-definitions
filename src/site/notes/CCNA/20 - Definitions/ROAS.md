@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/roas/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/roas/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-07T13:24:01.109-08:00"}
 ---
 
 #### ROAS
