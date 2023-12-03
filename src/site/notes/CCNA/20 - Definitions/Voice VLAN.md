@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/voice-vlan/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/voice-vlan/","tags":["defs_ccna"],"created":"2023-11-13T08:26:01.000-08:00","updated":"2023-11-13T08:32:06.000-08:00"}
 ---
 
 #### Voice VLAN
