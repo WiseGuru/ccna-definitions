@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/hypervisors/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/hypervisors/","tags":["defs_ccna"],"created":"2023-11-08T13:47:13.022-08:00","updated":"2023-11-08T14:38:14.404-08:00"}
 ---
 
 #### Hypervisor
