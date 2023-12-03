@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/problematic-pages/","created":"2023-11-06T16:32:48.000-08:00","updated":"2023-12-03T15:30:02.793-08:00"}
+{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/problematic-pages/","created":"2023-11-06T16:32:48.000-08:00","updated":"2023-12-03T15:45:09.453-08:00"}
 ---
 
 Help me fix these pages; hit me up with this [Google Forms Survey](https://forms.gle/HmYY8zjdgzJQFiWr5) or submit an [issue on GitHub](https://github.com/WiseGuru/ccna-definitions-vault/issues/new).
@@ -7,11 +7,7 @@ Help me fix these pages; hit me up with this [Google Forms Survey](https://forms
 These are pages that have unoriginal or private content, and should have new content added to them.
 1. [[CCNA/20 - Definitions/WLC\|WLC]]
 	1. Linked, but would prefer to be original
-2. [[CCNA/20 - Definitions/Cisco Troubleshooting Methodology and Approaches\|Cisco Troubleshooting Methodology and Approaches]]
-	1. Linked, but would prefer it to be original
-3. [[CCNA/20 - Definitions/DHCP Snooping\|DHCP Snooping]]
-	1. Unsure where I got the CLI output from, should be original
-4. [[CCNA/20 - Definitions/Port Security\|Port Security]]
+3. [[CCNA/20 - Definitions/Port Security\|Port Security]]
 	1. Linked, but would prefer to be original
 
 
