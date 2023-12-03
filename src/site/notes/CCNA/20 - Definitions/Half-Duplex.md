@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/half-duplex/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/half-duplex/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-08T13:58:04.206-08:00"}
 ---
 
 #### Half-duplex
