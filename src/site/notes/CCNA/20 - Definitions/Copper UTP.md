@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/copper-utp/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/copper-utp/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-12T19:21:19.000-08:00"}
 ---
 
 #### Copper UTP
