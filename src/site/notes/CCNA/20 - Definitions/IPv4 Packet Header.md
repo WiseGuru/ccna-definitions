@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/i-pv4-packet-header/","tags":["defs_ccna"]}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/i-pv4-packet-header/","tags":["defs_ccna"],"created":"2023-11-07T09:48:57.101-08:00","updated":"2023-11-08T14:40:48.975-08:00"}
 ---
 
 An *[[CCNA/20 - Definitions/IPv4\|IPv4]] packet header*, depending on the options selected, can range in size from **160 bits (20 bytes)** and **480 bits (60 bytes)**
