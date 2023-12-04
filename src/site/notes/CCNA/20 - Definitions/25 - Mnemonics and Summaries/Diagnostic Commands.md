@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/diagnostic-commands/","created":"2023-12-03T13:09:19.088-08:00","updated":"2023-12-03T14:23:18.865-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/diagnostic-commands/","created":"2023-12-03T13:09:19.088-08:00","updated":"2023-12-03T17:16:30.484-08:00"}
 ---
 
 There are a variety of *Cisco IOS* and *networking* tools you can use for *information gather* and *diagnostics*. I've broken them up into a few groups to make them easier to remember, but there will often be overlap.
@@ -217,4 +217,4 @@ lo0: flags=8049<UP,LOOPBACK,RUNNING,MULTICAST> mtu 16384
 [Cisco Network Troubleshooting for Beginners | Pluralsight](https://www.pluralsight.com/blog/it-ops/cisco-network-troubleshooting)
 [ping (networking utility) - Wikipedia](https://en.wikipedia.org/wiki/Ping_(networking_utility))
 [traceroute - Wikipedia](https://en.wikipedia.org/wiki/Traceroute)
-[Cisco IOS Debug Command Reference - Commands I through L - Index [Support] - Cisco](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/debug/command/db-i1-cr-book/db-i1-cr-book_CLT_chapter.html)
+[Cisco IOS Debug Command Reference](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/debug/command/db-i1-cr-book/db-i1-cr-book_CLT_chapter.html)
