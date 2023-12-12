@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/wise-guru-s-ccna-definitions/","tags":["gardenEntry"],"created":"2023-11-06T10:04:14.000-08:00","updated":"2023-12-02T11:16:06.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/wise-guru-s-ccna-definitions/","tags":["gardenEntry"],"created":"2023-11-06T10:04:14.000-08:00","updated":"2023-12-02T11:16:06.736-08:00"}
 ---
 
 
@@ -14,10 +14,6 @@ If you're struggling with a topic, or if there's an area that would help *you* i
 
 ### Planned Maintenance
 None.
-
-**MAINTENANCE 12/2/2023 COMPLETED**
-Everything appears to be working with new uploads, so clearing the warning.
-
 
 >**Disclaimer:** Because Cloudflare effectively rebuilds the site from scratch each time I update a page, you may notice some irregularities if you're looking at the site at the same time that an update is being pushed. This interruption should be brief, and otherwise have no impact on your use of the site.
 
