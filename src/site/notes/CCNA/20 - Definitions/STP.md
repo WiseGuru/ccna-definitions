@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/stp/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-08T14:54:50.188-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/stp/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-08T14:54:50.000-08:00"}
 ---
 
 #### STP
