@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/cisco-dna-center/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-11T12:01:48.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/cisco-dna-center/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-11T12:01:48.175-08:00"}
 ---
 
 #### Cisco DNA Center
