@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/stateless/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-07T15:39:00.526-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/stateless/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-07T15:39:00.000-08:00"}
 ---
 
 #### Stateless or Stateful
