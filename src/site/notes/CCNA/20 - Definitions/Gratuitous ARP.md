@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/gratuitous-arp/","tags":["defs_ccna"],"created":"2023-12-03T14:34:51.834-08:00","updated":"2023-12-03T14:40:20.618-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/gratuitous-arp/","tags":["defs_ccna"],"created":"2023-12-03T14:34:51.000-08:00","updated":"2023-12-03T14:40:20.000-08:00"}
 ---
 
 #### Gratuitous ARP
