@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/layer-2-attack-types/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-12-03T14:40:38.052-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/layer-2-attack-types/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-12-03T14:40:38.000-08:00"}
 ---
 
 #### [[CCNA/20 - Definitions/VLAN\|VLAN]] Hopping
