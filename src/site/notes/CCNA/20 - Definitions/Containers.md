@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/containers/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-08T13:46:39.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/containers/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2024-01-08T13:20:50.610-08:00"}
 ---
 
 #### Containers
@@ -17,7 +17,7 @@
 ### OSI or TCP/IP Layer
 
 ### CCNA Exam Topic
-
+#extop-1-12
 ### Contributors
 
 ### Sources
