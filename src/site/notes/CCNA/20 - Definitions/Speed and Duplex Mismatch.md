@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/speed-and-duplex-mismatch/","tags":["defs_ccna"],"created":"2023-11-12T18:25:16.000-08:00","updated":"2023-11-12T19:36:17.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/speed-and-duplex-mismatch/","tags":["defs_ccna"],"created":"2023-11-12T18:25:16.891-08:00","updated":"2023-11-12T19:36:17.618-08:00"}
 ---
 
 
