@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/rsa/","tags":["defs_ccna"],"created":"2023-11-07T13:55:00.853-08:00","updated":"2023-11-07T13:59:13.428-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/rsa/","tags":["defs_ccna"],"created":"2023-11-07T13:55:00.000-08:00","updated":"2023-11-07T13:59:13.000-08:00"}
 ---
 
 #### RSA
