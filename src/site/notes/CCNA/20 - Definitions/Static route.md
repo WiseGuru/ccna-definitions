@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/static-route/","tags":["defs_ccna"],"created":"2023-11-19T11:21:04.409-08:00","updated":"2023-11-19T12:06:21.688-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/static-route/","tags":["defs_ccna"],"created":"2023-11-19T11:21:04.000-08:00","updated":"2023-11-19T12:06:21.000-08:00"}
 ---
 
 #### Static Routes
