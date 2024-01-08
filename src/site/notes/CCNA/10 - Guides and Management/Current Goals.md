@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/current-goals/","created":"2023-11-13T08:38:54.000-08:00","updated":"2023-11-13T08:55:16.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/current-goals/","created":"2023-11-13T08:38:54.128-08:00","updated":"2023-11-13T08:55:16.581-08:00"}
 ---
 
 ### Current Goals
