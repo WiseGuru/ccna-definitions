@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/broadcast-domain/","tags":["defs_ccna"],"created":"2023-11-08T13:17:55.423-08:00","updated":"2023-11-08T13:26:01.646-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/broadcast-domain/","tags":["defs_ccna"],"created":"2023-11-08T13:17:55.000-08:00","updated":"2023-11-08T13:26:01.000-08:00"}
 ---
 
 #### Broadcast Domain
