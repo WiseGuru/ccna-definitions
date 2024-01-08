@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/routing-table/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-19T12:05:53.386-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/routing-table/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-19T12:05:53.000-08:00"}
 ---
 
 #### Routing Table
