@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/frequency/","tags":["defs_ccna"],"created":"2023-11-07T11:18:51.079-08:00","updated":"2023-11-07T11:20:50.807-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/frequency/","tags":["defs_ccna"],"created":"2023-11-07T11:18:51.000-08:00","updated":"2023-11-07T11:20:50.000-08:00"}
 ---
 
 #### Frequency
