@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/cisco-dna-center/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-11T12:01:48.175-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/cisco-dna-center/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2024-01-08T13:30:50.325-08:00"}
 ---
 
 #### Cisco DNA Center
@@ -19,7 +19,7 @@
 ### OSI or TCP/IP Layer
 
 ### CCNA Exam Topic
-#extop-1-1 
+#extop-2-6
 ### Contributors
 
 ### Sources
