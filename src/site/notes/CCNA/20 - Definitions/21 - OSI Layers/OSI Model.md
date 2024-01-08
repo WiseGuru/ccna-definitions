@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/21-osi-layers/osi-model/","created":"2023-11-12T18:12:08.000-08:00","updated":"2023-11-12T18:14:11.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/21-osi-layers/osi-model/","created":"2023-11-12T18:12:08.692-08:00","updated":"2023-11-12T18:14:11.469-08:00"}
 ---
 
 
