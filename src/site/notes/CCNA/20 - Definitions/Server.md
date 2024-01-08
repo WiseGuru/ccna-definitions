@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/server/","tags":["defs_ccna"],"created":"2023-11-11T11:54:16.000-08:00","updated":"2023-11-11T11:58:01.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/server/","tags":["defs_ccna"],"created":"2023-11-11T11:54:16.297-08:00","updated":"2023-11-11T11:58:01.680-08:00"}
 ---
 
 #### Server
