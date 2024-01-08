@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/ios-command-hierarchy/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-08T13:59:08.141-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/ios-command-hierarchy/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-08T13:59:08.000-08:00"}
 ---
 
 #### IOS Command Hierarchy
