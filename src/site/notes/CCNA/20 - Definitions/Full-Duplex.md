@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/full-duplex/","tags":["defs_ccna"],"created":"2023-11-12T18:49:12.000-08:00","updated":"2023-11-12T19:21:35.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/full-duplex/","tags":["defs_ccna"],"created":"2023-11-12T18:49:12.091-08:00","updated":"2023-11-12T19:21:35.907-08:00"}
 ---
 
 #### Full-Duplex
