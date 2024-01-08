@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/wireshark/","tags":["defs_ccna"],"created":"2023-11-29T13:36:08.779-08:00","updated":"2023-11-29T13:39:46.515-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/wireshark/","tags":["defs_ccna"],"created":"2023-11-29T13:36:08.000-08:00","updated":"2023-11-29T13:39:46.000-08:00"}
 ---
 
 >Not CCNA relevant, but likely relevant for your career.
