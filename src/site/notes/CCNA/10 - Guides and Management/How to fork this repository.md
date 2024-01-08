@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/how-to-fork-this-repository/","created":"2023-11-10T14:22:39.000-08:00","updated":"2023-11-19T13:58:56.140-08:00"}
+{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/how-to-fork-this-repository/","created":"2023-11-10T14:22:39.000-08:00","updated":"2023-11-19T13:58:56.000-08:00"}
 ---
 
 *Instructions coming soon*
