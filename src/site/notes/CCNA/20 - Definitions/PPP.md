@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/ppp/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-07T11:08:37.482-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/ppp/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-07T11:08:37.000-08:00"}
 ---
 
 #### PPP
