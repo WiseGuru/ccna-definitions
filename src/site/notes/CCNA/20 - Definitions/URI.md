@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/uri/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-08T15:04:17.655-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/uri/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-08T15:04:17.000-08:00"}
 ---
 
 #### URI
