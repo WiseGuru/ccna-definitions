@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/vtp/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-13T08:16:28.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/vtp/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-13T08:16:28.100-08:00"}
 ---
 
 #### VTP
