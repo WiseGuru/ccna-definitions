@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/client/","tags":["defs_ccna"],"created":"2023-11-11T11:56:36.000-08:00","updated":"2023-11-13T08:37:45.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/client/","tags":["defs_ccna"],"created":"2023-11-11T11:56:36.727-08:00","updated":"2023-11-13T08:37:45.936-08:00"}
 ---
 
 #### Client
