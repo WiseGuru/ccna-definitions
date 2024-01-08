@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/wlc/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-11T11:53:18.528-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/wlc/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2024-01-08T13:29:53.377-08:00"}
 ---
 
 #### WLC
@@ -109,7 +109,7 @@ Source: [Firewall.cx](https://www.firewall.cx/cisco/cisco-wireless/cisco-wireles
 ### OSI or TCP/IP Layer
 
 ### CCNA Exam Topic
-#extop-1-1 
+#extop-1-1 #extop-2-7
 ### Contributors
 
 ### Sources
