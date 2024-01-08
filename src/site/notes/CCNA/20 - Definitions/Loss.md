@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/loss/","tags":["defs_ccna"],"created":"2023-11-07T11:12:36.000-08:00","updated":"2023-11-12T18:42:57.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/loss/","tags":["defs_ccna"],"created":"2023-11-07T11:12:36.000-08:00","updated":"2023-11-12T18:42:57.645-08:00"}
 ---
 
 #### Loss
