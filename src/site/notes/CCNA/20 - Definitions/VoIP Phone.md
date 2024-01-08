@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/vo-ip-phone/","tags":["defs_ccna"],"created":"2023-11-13T08:32:11.000-08:00","updated":"2023-11-13T08:36:13.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/vo-ip-phone/","tags":["defs_ccna"],"created":"2023-11-13T08:32:11.162-08:00","updated":"2023-11-13T08:36:13.307-08:00"}
 ---
 
 #### VoIP Phone
