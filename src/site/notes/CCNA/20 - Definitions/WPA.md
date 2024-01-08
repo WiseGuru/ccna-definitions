@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/wpa/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-08T12:52:47.851-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/wpa/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-08T12:52:47.000-08:00"}
 ---
 
 #### WPA
