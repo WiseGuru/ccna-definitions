@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/capwap/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-08T13:28:11.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/capwap/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2024-01-08T13:25:35.204-08:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 ### OSI or TCP/IP Layer
 
 ### CCNA Exam Topic
-
+#extop-2-6
 ### Contributors
 
 ### Sources
