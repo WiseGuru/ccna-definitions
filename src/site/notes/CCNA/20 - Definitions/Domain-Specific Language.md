@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/domain-specific-language/","tags":["defs_ccna"],"created":"2023-11-06T09:32:53.962-08:00","updated":"2023-11-08T13:56:09.875-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/domain-specific-language/","tags":["defs_ccna"],"created":"2023-11-06T09:32:53.000-08:00","updated":"2023-11-08T13:56:09.000-08:00"}
 ---
 
 #### DSL
