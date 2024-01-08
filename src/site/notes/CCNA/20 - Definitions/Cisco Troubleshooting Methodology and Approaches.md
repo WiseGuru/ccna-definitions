@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/cisco-troubleshooting-methodology-and-approaches/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-12-03T15:40:53.167-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/cisco-troubleshooting-methodology-and-approaches/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-12-03T15:40:53.000-08:00"}
 ---
 
 #### Methodology vs. Approaches/styles
