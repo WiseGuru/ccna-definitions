@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/lightweight-a-ps/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-06T17:09:33.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/lightweight-a-ps/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2024-01-08T13:27:32.631-08:00"}
 ---
 
 #### Lightweight APs
@@ -62,7 +62,7 @@ DNS server IP..................................... 192.168.1.2
 ### OSI or TCP/IP Layer
 
 ### CCNA Exam Topic
-
+#extop-2-6
 ### Contributors
 
 ### Sources
