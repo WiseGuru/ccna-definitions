@@ -5,7 +5,7 @@
 #### Copper Twisted-Pair Cables
 - Copper wires are the most common network cabling media in homes and offices
 - Twisted-Pair cables are either *Shielded (STP)* or *Unshielded (UTP)*
-	- *Copper Shielded Twisted Pair (STP)* cables reduce noise and [[Interference\|Interference]] by insulating the twisted-pair wires.
+	- *Copper Shielded Twisted Pair (STP)* cables reduce noise and [[CCNA/20 - Definitions/Interference\|Interference]] by insulating the twisted-pair wires.
 	- *Copper Unshielded Twisted Pair (UTP)* are cheaper than STP cables, but are more prone to interference
 - *STP* and *UTP* cables can support [[CCNA/20 - Definitions/PoE\|PoE]], reducing wiring overhead for [hard-to-reach places.](https://www.youtube.com/watch?v=atJDnYICIvw)
 - Copper cables are frequently terminated with a *Registered Jack 45 (RJ45)*^[[Registered jack - Wikipedia](https://en.wikipedia.org/wiki/Registered_jack)] plug
