@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/problematic-pages/","created":"2023-11-06T16:32:48.000-08:00","updated":"2024-01-08T10:08:03.389-08:00"}
+{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/problematic-pages/","created":"2023-11-06T16:32:48.000-08:00","updated":"2024-01-10T09:19:48.235-08:00"}
 ---
 
 Help me fix these pages; hit me up with this [Google Forms Survey](https://forms.gle/HmYY8zjdgzJQFiWr5) or submit an [issue on GitHub](https://github.com/WiseGuru/ccna-definitions-vault/issues/new).
@@ -43,3 +43,4 @@ These are pages that are shorter than they should be and/or don't exist.
 18. [[CCNA/20 - Definitions/IDS-IPS\|IDS-IPS]]
 19. [[CCNA/20 - Definitions/802.1X\|802.1X]]
 	1. Should include a graphic of the devices in relation to each other
+20. [[CCNA/20 - Definitions/DHCP\|DHCP]] server/client configuration
