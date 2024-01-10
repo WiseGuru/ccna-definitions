@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/dns/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-08T13:56:04.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/dns/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2024-01-10T09:16:26.349-08:00"}
 ---
 
 #### DNS
@@ -37,7 +37,7 @@ Port 53 [[CCNA/20 - Definitions/TCP\|TCP]]/[[CCNA/20 - Definitions/UDP\|UDP]]
 ### OSI or TCP/IP Layer
 
 ### CCNA Exam Topic
-
+#extops-4-3
 ### Contributors
 
 ### Sources
