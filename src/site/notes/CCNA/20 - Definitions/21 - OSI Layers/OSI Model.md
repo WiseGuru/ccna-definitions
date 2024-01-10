@@ -11,7 +11,7 @@
 #### Layer 1 - Physical
 *The Physical Layer (Layer 1)* defines the specifications needed for activating, maintaining, and deactivating the physical link between end devices
 - Conveys the bit stream through the network at the electrical, mechanical, and optical level
-- Often uses [[CCNA/20 - Definitions/Copper UTP\|Copper UTP]] or [[CCNA/20 - Definitions/Fiber\|Fiber]] 
+- Often uses [[CCNA/20 - Definitions/Copper\|Copper]] or [[CCNA/20 - Definitions/Fiber\|Fiber]] 
 - Sends binary data in a [[CCNA/20 - Definitions/bits\|bitstream]]
 
 
