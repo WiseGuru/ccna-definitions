@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/logging/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-06T17:11:09.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/logging/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2024-01-10T09:18:48.671-08:00"}
 ---
 
 #### Logging
@@ -20,7 +20,7 @@
 ### OSI or TCP/IP Layer
 
 ### CCNA Exam Topic
-
+#extop-4-5 
 ### Contributors
 
 ### Sources
