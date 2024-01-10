@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/ccna-objectives-and-exam-topics/","created":"2023-11-11T11:13:21.000-08:00","updated":"2024-01-08T13:35:49.766-08:00"}
+{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/ccna-objectives-and-exam-topics/","created":"2023-11-11T11:13:21.000-08:00","updated":"2024-01-10T08:30:54.121-08:00"}
 ---
 
 Below are the CCNA objectives (and their respective tags), according to Cisco's site as of 11/11/2023. 
@@ -21,7 +21,7 @@ I have currently linked files up to 4.1. Topics that should be covered but are c
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | #extop-1-1  | Explain the role and function of network components                                                                                                                 |
 | #extop-1-2  | Describe characteristics of network topology architectures                                                                                                          |
-| #extop-1-3  | **Compare physical interface and cabling types**                                                                                                                        |
+| #extop-1-3  | Compare physical interface and cabling types                                                                                                                        |
 | #extop-1-4  | Identify interface and cable issues (collisions, errors, mismatch duplex, and/or speed)                                                                             |
 | #extop-1-5  | Compare TCP and UDP                                                                                                                                                 |
 | #extop-1-6  | Configure and verify IPv4 addressing and subnetting                                                                                                                 |
