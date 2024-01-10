@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/ccna-objectives-and-exam-topics/","created":"2023-11-11T11:13:21.000-08:00","updated":"2024-01-10T08:30:54.121-08:00"}
+{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/ccna-objectives-and-exam-topics/","created":"2023-11-11T11:13:21.000-08:00","updated":"2024-01-10T09:20:47.704-08:00"}
 ---
 
 Below are the CCNA objectives (and their respective tags), according to Cisco's site as of 11/11/2023. 
@@ -14,7 +14,9 @@ Below are the CCNA objectives (and their respective tags), according to Cisco's 
 6. Automation and Programmability (10%)
 
 
-I have currently linked files up to 4.1. Topics that should be covered but are currently without any linked files are highlighted.
+I have currently linked files up to **extops-4-7**. Topics that should be covered but are currently without any linked files are highlighted.
+
+*Note:* This does not mean the articles don't already exist, just that they have not been linked here.
 
 
 | Tag         | Topic                                                                                                                                                               |
@@ -47,12 +49,12 @@ I have currently linked files up to 4.1. Topics that should be covered but are c
 | #extop-3-4  | Configure and verify single area OSPFv2                                                                                                                             |
 | #extop-3-5  | Describe the purpose, functions, and concepts of first hop redundancy protocols                                                                                     |
 | #extop-4-1  | Configure and verify inside source NAT using static and pools                                                                                                       |
-| #extop-4-2  | **Configure and verify NTP operating in a client and server mode**                                                                                                      |
+| #extop-4-2  | Configure and verify NTP operating in a client and server mode                                                                                                      |
 | #extop-4-3  | Explain the role of DHCP and DNS within the network                                                                                                                 |
 | #extop-4-4  | Explain the function of SNMP in network operations                                                                                                                  |
 | #extop-4-5  | Describe the use of syslog features including facilities and levels                                                                                                 |
 | #extop-4-6  | Configure and verify DHCP client and relay                                                                                                                          |
-| #extop-4-7  | Explain the forwarding per-hop behavior (PHB) for QoS, such as classification, marking, queuing, congestion, policing, and shaping                                  |
+| #extop-4-7  | **Explain the forwarding per-hop behavior (PHB) for QoS, such as classification, marking, queuing, congestion, policing, and shaping**                                  |
 | #extop-4-8  | Configure network devices for remote access using SSH                                                                                                               |
 | #extop-4-9  | Describe the capabilities and functions of TFTP/FTP in the network                                                                                                  |
 | #extop-5-1  | Define key security concepts (threats, vulnerabilities, exploits, and mitigation techniques)                                                                        |
