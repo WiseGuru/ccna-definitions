@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/wireless-networks-summaries/","created":"2023-11-04T12:45:24.000-07:00","updated":"2024-01-08T13:34:43.033-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/wireless-networks-summaries/","created":"2023-11-04T12:45:24.000-07:00","updated":"2024-01-10T09:12:12.877-08:00"}
 ---
 
 #mnemonics
@@ -47,7 +47,7 @@
 		- Diffraction, literally "to break apart"
 	- *Scattering*
 		- Physical interference, like dust, smog, uneven surfaces, etc.
-	- *Interference*
+	- [[CCNA/20 - Definitions/Interference\|Interference]]
 		- Signal interference, like other WLAN connections, microwaves, etc.
 
 ### Wireless Signal Anatomy
