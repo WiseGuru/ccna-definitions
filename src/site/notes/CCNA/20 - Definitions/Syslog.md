@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/syslog/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-07T16:01:31.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/syslog/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2024-01-10T09:18:37.264-08:00"}
 ---
 
 #### Syslog
@@ -17,14 +17,23 @@
 ![Syslog-SeverityLevels.png](/img/user/Attachments/Syslog-SeverityLevels.png)
 
 
-
+### Syslog Severity
+*EACEWNID* Starts at **0**
+0. Emergency
+1. Alert
+2. Critical
+3. Error
+4. Warning
+5. Notify/Notification
+6. Informational
+7. Debugging
 
 
 # Metadata
 ### OSI or TCP/IP Layer
 
 ### CCNA Exam Topic
-
+#extop-4-5 
 ### Contributors
 
 ### Sources
