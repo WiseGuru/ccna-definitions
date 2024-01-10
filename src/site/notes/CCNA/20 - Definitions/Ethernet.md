@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/ethernet/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-08T13:57:25.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/ethernet/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2024-01-10T09:22:17.577-08:00"}
 ---
 
 #### Ethernet
@@ -19,4 +19,4 @@
 ### Contributors
 
 ### Sources
-
+[Ethernet - Wikipedia](https://en.wikipedia.org/wiki/Ethernet)
