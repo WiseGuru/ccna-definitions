@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/21-osi-layers/layer-6/","created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-08T13:09:21.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/21-osi-layers/layer-6/","created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-08T13:09:21.911-08:00"}
 ---
 
 #### Layer 6 - Presentation
