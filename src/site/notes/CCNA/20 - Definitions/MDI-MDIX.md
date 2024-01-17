@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/mdi-mdix/","tags":["defs_ccna"],"created":"2024-01-10T08:59:13.491-08:00","updated":"2024-01-10T09:06:22.591-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/mdi-mdix/","tags":["defs_ccna"]}
 ---
 
 #### MDI/MDIX
