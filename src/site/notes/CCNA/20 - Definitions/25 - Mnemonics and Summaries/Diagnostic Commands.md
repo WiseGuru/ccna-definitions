@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/diagnostic-commands/","created":"2023-12-03T13:09:19.000-08:00","updated":"2024-01-08T13:20:06.682-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/diagnostic-commands/"}
 ---
 
 There are a variety of *Cisco IOS* and *networking* tools you can use for *information gather* and *diagnostics*. I've broken them up into a few groups to make them easier to remember, but there will often be overlap.
