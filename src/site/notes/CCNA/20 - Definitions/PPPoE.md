@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/pp-po-e/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-07T11:11:08.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/pp-po-e/","tags":["defs_ccna"]}
 ---
 
 #### PPPoE
