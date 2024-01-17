@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/ckip/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-12T18:43:39.948-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/ckip/","tags":["defs_ccna"]}
 ---
 
 #### CKIP
