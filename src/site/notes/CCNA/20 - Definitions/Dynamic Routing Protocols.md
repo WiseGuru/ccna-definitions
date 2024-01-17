@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/dynamic-routing-protocols/","tags":["defs_ccna"],"created":"2023-11-06T10:44:24.000-08:00","updated":"2023-11-19T11:24:49.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/dynamic-routing-protocols/","tags":["defs_ccna"]}
 ---
 
 #### Dynamic Routing Protocols
