@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/wireless-networks-summaries/","created":"2023-11-04T12:45:24.000-07:00","updated":"2024-01-10T09:12:12.877-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/wireless-networks-summaries/"}
 ---
 
 #mnemonics
