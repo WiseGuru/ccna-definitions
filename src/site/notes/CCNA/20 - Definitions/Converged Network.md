@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/converged-network/","tags":["defs_ccna"],"created":"2023-11-07T11:12:41.000-08:00","updated":"2023-11-13T08:33:07.195-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/converged-network/","tags":["defs_ccna"]}
 ---
 
 #### Converged Network
