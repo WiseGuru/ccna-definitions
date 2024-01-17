@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/eap/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-08T13:56:45.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/eap/","tags":["defs_ccna"]}
 ---
 
 #### EAP
