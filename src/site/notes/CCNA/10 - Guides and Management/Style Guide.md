@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/style-guide/","created":"2023-11-06T10:12:32.000-08:00","updated":"2023-11-06T16:04:37.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/style-guide/","created":"2023-11-06T10:12:32.410-08:00","updated":"2023-11-06T16:04:37.709-08:00"}
 ---
 
 
