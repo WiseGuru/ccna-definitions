@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/network-types/","tags":["defs_ccna"],"created":"2023-11-06T11:13:14.000-08:00","updated":"2024-01-10T08:26:57.860-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/network-types/","tags":["defs_ccna"]}
 ---
 
 #### Network Types
