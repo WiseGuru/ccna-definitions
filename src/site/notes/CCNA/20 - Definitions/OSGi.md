@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/os-gi/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-07T09:36:03.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/os-gi/","tags":["defs_ccna"]}
 ---
 
 #### OSGI
