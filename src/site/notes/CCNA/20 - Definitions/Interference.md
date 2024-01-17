@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/interference/","tags":["defs_ccna"],"created":"2024-01-10T09:07:04.286-08:00","updated":"2024-01-10T09:13:20.379-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/interference/","tags":["defs_ccna"]}
 ---
 
 #### Interference
