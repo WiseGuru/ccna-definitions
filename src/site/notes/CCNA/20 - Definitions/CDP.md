@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/cdp/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-13T08:17:28.856-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/cdp/","tags":["defs_ccna"]}
 ---
 
 #### CDP
