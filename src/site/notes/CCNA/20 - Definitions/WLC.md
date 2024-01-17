@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/wlc/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2024-01-08T13:29:53.377-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/wlc/","tags":["defs_ccna"]}
 ---
 
 #### WLC
