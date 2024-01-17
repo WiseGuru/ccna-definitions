@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/link/","tags":["defs_ccna"],"created":"2023-11-12T19:04:28.841-08:00","updated":"2023-11-12T19:10:06.688-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/link/","tags":["defs_ccna"]}
 ---
 
 #### Link
