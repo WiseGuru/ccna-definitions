@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/co-s/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-08T14:30:44.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/co-s/","tags":["defs_ccna"]}
 ---
 
 #### Class of Service
