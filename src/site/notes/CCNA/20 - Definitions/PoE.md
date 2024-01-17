@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/po-e/","tags":["defs_ccna"],"created":"2023-11-06T09:27:24.000-08:00","updated":"2023-11-11T11:58:34.633-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/po-e/","tags":["defs_ccna"]}
 ---
 
 #### Power over Ethernet
