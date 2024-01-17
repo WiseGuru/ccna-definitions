@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/dns/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2024-01-10T09:16:26.349-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/dns/","tags":["defs_ccna"]}
 ---
 
 #### DNS
