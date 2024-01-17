@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/lan/","tags":["defs_ccna"],"created":"2023-11-13T08:34:34.979-08:00","updated":"2023-11-13T08:35:39.584-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/lan/","tags":["defs_ccna"]}
 ---
 
 #### LAN
