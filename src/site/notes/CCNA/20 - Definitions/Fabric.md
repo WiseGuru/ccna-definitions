@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/fabric/","tags":["defs_ccna"],"created":"2023-11-07T09:37:21.000-08:00","updated":"2023-11-07T09:37:52.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/fabric/","tags":["defs_ccna"]}
 ---
 
 #### Fabric
