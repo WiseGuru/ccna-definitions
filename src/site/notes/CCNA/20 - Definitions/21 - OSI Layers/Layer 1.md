@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/21-osi-layers/layer-1/","created":"2023-11-05T10:55:11.000-08:00","updated":"2024-01-10T08:32:12.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/21-osi-layers/layer-1/"}
 ---
 
 #### Layer 1 - Physical
