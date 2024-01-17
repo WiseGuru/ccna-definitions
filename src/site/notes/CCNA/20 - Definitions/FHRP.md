@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/fhrp/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2023-12-03T14:40:36.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/fhrp/","tags":["defs_ccna"]}
 ---
 
 #### FHRP
