@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/p-ag-p/","tags":["defs_ccna"],"created":"2023-11-05T10:55:11.000-08:00","updated":"2024-01-08T13:22:11.409-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/p-ag-p/","tags":["defs_ccna"]}
 ---
 
 #### Port Aggregation Protocol
