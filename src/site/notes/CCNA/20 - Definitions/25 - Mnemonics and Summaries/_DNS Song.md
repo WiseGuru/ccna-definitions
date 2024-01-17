@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/dns-song/","created":"2023-11-04T12:45:24.000-07:00","updated":"2024-01-10T09:16:17.895-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/dns-song/","tags":["#extop-4-3"]}
 ---
 
 ### DNS Song
@@ -12,4 +12,3 @@ To itsy bitsy spider
 - But to name the network, use `ip domain-name`
 
 
-#extop-4-3
