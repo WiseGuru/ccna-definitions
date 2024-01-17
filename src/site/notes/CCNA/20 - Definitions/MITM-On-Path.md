@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/mitm-on-path/","tags":["defs_ccna"],"created":"2023-11-06T09:43:41.000-08:00","updated":"2023-11-06T17:19:37.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/mitm-on-path/","tags":["defs_ccna"]}
 ---
 
 #### MITM/On-Path
