@@ -1,23 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/subnetting-walk-through/","created":"2023-11-24T09:28:54.000-08:00","updated":"2023-11-25T17:37:06.030-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/subnetting-walk-through/","created":"2023-11-24T09:28:54.000-08:00","updated":"2024-01-17T14:14:24.810-08:00"}
 ---
 
 [[CCNA/20 - Definitions/IP subnet\|Subnetting]] is the practice of dividing a network into smaller subnetworks.
 
 The CCNA *heavily* tests you on your ability to quickly understand subnets and navigate routing tables. It doesn't do this with questions like you'll find on [subnetting.org](https://subnetting.org/), but often as part of another question whose primary subject matter is something else.
 
-To put it simply, being able to *quickly understand* the *scope of a network* with either a *dotted-decimal* or *slash-notation* network or subnet mask is the **most critical skill** needed for the CCNA. *You are not given time* to do the math of subnetting for every question, and most questions will involve subnetting in some form or another.
+To put it simply, being able to *quickly understand* the *scope of a network* with either a *dotted-decimal* or *slash-notation* network or subnet mask is the **most critical skill** needed for the CCNA. *You are not given time* to manually subnet every question, and most questions will involve subnetting in some form or another.
 
 Below, we'll discuss what I found to be most helpful while studying and taking the test, and what you can do to get better at it.
 
->**NOTE**: All the examples below are for *IPv4*, because that's where it's most necessary for the CCNA. You can extend the principles to *IPv6*, but it's both a little simpler and more complicated, and it's easier to teach the differences if you already have a firm grasp of IPv4 subnetting. 
+>**NOTE**: All the examples below are for *IPv4*, because that's where it's most necessary for the CCNA. You can extend the principles to *IPv6*, and it's easier to learn the differences if you already have a firm grasp of IPv4 subnetting. 
 
 >**ALSO NOTE**: This article will focus on the practical application of subnetting, and won't go into the overarching governing ideas behind them, like [[CCNA/20 - Definitions/VLSM\|VLSM]] or [[CCNA/20 - Definitions/IPv4 Address Classes\|RFC 1918]].
 
 ## IP Networks 101
 In order to fully understand the following methods, you need to understand how IP addresses and network masks are composed at the bit-level.
 
-**If you already know what I mean when I say /13 has a bit value of 8, you can click the arrow by the title of this section and skip ahead.**
+If you already know what I mean when I say /13 has a bit value of 8, [[CCNA/20 - Definitions/25 - Mnemonics and Summaries/Subnetting Walk-through#Subnetting Under Pressure\|you can click here to skip ahead to the bottom.]]
 
 >You can also go watch [Jeremy's IT Lab](https://www.youtube.com/watch?v=bQ8sdpGQu8c), which will absolutely do a better and more thorough job of explaining this. I won't be offended.
 
@@ -329,7 +329,7 @@ And you're all set! Each of the following groups will get these networks:
 
 >Ok, that about covers the basics; let's get on to how this applies for the **CCNA**
 
-## Preparing to Subnet Under Pressure
+## Subnetting Under Pressure
 
 On the CCNA, you will have between 90 and 120 questions, and 120 minutes to answer them ([New CCNA exam - 200-301](https://study-ccna.com/new-ccna-exam-200-301/)). I can feel your existential dread; *how am I supposed to calculate all that crap when I have just over a minute to answer each question?*
 
