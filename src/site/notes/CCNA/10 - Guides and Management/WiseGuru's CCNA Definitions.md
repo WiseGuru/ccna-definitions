@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/wise-guru-s-ccna-definitions/","tags":["gardenEntry"],"created":"2023-11-06T10:04:14.000-08:00","updated":"2024-01-17T14:08:54.838-08:00"}
+{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/wise-guru-s-ccna-definitions/","tags":["gardenEntry"]}
 ---
 
 # CCNA Definitions
