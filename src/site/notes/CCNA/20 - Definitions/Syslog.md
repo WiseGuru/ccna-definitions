@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/syslog/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2024-01-10T09:18:37.264-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/syslog/","tags":["defs_ccna"]}
 ---
 
 #### Syslog
