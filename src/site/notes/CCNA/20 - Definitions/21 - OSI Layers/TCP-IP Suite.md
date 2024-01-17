@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/21-osi-layers/tcp-ip-suite/","created":"2023-11-05T10:55:11.000-08:00","updated":"2023-11-15T12:20:27.344-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/21-osi-layers/tcp-ip-suite/"}
 ---
 
 #### TCP/IP Suite
