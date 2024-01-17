@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/wise-guru-s-ccna-definitions/","tags":["gardenEntry"],"created":"2023-11-06T10:04:14.000-08:00","updated":"2024-01-11T17:07:10.016-08:00"}
+{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/wise-guru-s-ccna-definitions/","tags":["gardenEntry"],"created":"2023-11-06T10:04:14.000-08:00","updated":"2024-01-17T14:08:54.838-08:00"}
 ---
 
 # CCNA Definitions
@@ -8,13 +8,19 @@ Welcome to WiseGuru's *community-driven* site of **CCNA Definitions**! The goal 
 
 If you're not sure where to start, I'm trying to get everything sorted by their [[CCNA/10 - Guides and Management/CCNA Objectives and Exam Topics\|CCNA Objectives and Exam Topics]]. I'm current objective is to connect all the exam topics, but let me know if I've missed one (and please include its topic)!
 
+I also recommend checking out my [[CCNA/20 - Definitions/25 - Mnemonics and Summaries/Subnetting Walk-through\|Subnetting Walk-through]].  which you will need to be able to do quickly and reliably on the exam.
+
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/maintenance/#planned-maintenance" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 ### Planned Maintenance
-None.
+#### 1/17/2024 - 6 PM PT to 7 PM PT
+What: **Possible Maintenance Outage**
+When: 1/17/2024 - 6 PM PT to 7 PM PT
+Why: Digital Garden version update and security maintenance
+Notes: Upgrade from whatever Digital Garden version I'm currently on to 1.59.0
 
 >**Disclaimer:** Because Cloudflare effectively rebuilds the site from scratch each time I update a page, you may notice some irregularities if you're looking at the site at the same time that an update is being pushed. This interruption should be brief, and otherwise have no impact on your use of the site.
 
@@ -24,7 +30,7 @@ None.
 ## Updated Pages
 Curious what's been updated since you were last here? Check out the [CCNA Definitions vault commits page on GitHub!](https://github.com/WiseGuru/ccna-definitions-vault/commits/main) Click on a commit to see which pages were changed and the exact changes that occurred.
 
->I've just added a [[CCNA/20 - Definitions/25 - Mnemonics and Summaries/Subnetting Walk-through\|Subnetting Walk-through]]; if you're uncomfortable with **Subnetting**, give it a look! I'd love to hear any feedback.
+>I've just added a [[CCNA/20 - Definitions/25 - Mnemonics and Summaries/Subnetting Walk-through\|Subnetting Walk-through]]; if you're uncomfortable with **Subnetting**, give it a look! I'd love to hear YOUR feedback.
 
 If you're struggling with a topic, or if there's an area that would help *you* in particular (*yes, you*) study, please let me know! Hit me up through this [Google Forms Survey](https://forms.gle/HmYY8zjdgzJQFiWr5), by submitting an [issue on GitHub](https://github.com/WiseGuru/ccna-definitions-vault/issues/new), or [ping me on Reddit (u/WiseGuruToTheMax)](https://www.reddit.com/user/WiseGuruToTheMax).
 
