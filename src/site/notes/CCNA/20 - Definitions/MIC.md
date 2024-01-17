@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/mic/","tags":["defs_ccna"],"created":"2023-11-04T12:45:23.000-07:00","updated":"2023-11-13T08:10:31.650-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/mic/","tags":["defs_ccna"]}
 ---
 
 #### MIC
