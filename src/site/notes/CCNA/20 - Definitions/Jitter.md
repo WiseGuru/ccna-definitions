@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/jitter/","tags":["defs_ccna"],"created":"2023-11-07T11:12:39.000-08:00","updated":"2023-11-07T11:16:33.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/jitter/","tags":["defs_ccna"]}
 ---
 
 #### Jitter
