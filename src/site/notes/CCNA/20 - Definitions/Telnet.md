@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/telnet/","tags":["defs_ccna"],"created":"2023-12-03T13:41:05.000-08:00","updated":"2023-12-03T13:45:51.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/telnet/","tags":["defs_ccna"]}
 ---
 
 #### Telnet
