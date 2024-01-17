@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/20-definitions/ssid/","tags":["defs_ccna"],"created":"2023-11-13T08:06:02.477-08:00","updated":"2023-11-13T08:09:47.411-08:00"}
+{"dg-publish":true,"permalink":"/ccna/20-definitions/ssid/","tags":["defs_ccna"]}
 ---
 
 #### SSID
