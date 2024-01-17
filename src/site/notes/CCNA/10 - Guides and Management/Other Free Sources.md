@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/other-free-sources/","created":"2023-11-08T14:48:59.000-08:00","updated":"2023-11-24T20:17:43.000-08:00"}
+{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/other-free-sources/"}
 ---
 
 ## Subnetting
