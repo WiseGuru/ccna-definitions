@@ -4,15 +4,17 @@
 
 
 ### Planned Maintenance
-#### 1/17/2024 - 6 PM PT to 7 PM PT
-What: **Possible Maintenance Outage**
-When: 1/17/2024 - 6 PM PT to 7 PM PT
-Why: Digital Garden version update and security maintenance
-Notes: Upgrade from whatever Digital Garden version I'm currently on to 1.59.0
+None
 
 >**Disclaimer:** Because Cloudflare effectively rebuilds the site from scratch each time I update a page, you may notice some irregularities if you're looking at the site at the same time that an update is being pushed. This interruption should be brief, and otherwise have no impact on your use of the site.
 
 # Maintenance History
+
+#### 1/18/2024 - 3 PM PT to 3:20 PM PT
+What: **Possible Maintenance Outage**
+When: 1/18/2024 - 3 PM PT to 3:20 PM PT
+Why: Digital Garden version update and security maintenance
+Notes: Upgrade from whatever Digital Garden version I'm currently on, 1.59.0, to 1.60.0.
 
 #### 12/2/2023 - 2 PM PT to 4 PM PT
 What: **Possible Maintenance Outage**
