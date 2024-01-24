@@ -1,13 +1,41 @@
-body {
     /***
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+/* Ordered Lists */
+ol {
+  list-style-type: decimal; /* Level 1: 1, 2, 3, ... */
+}
+
+ol ol {
+  list-style-type: lower-alpha; /* Level 2: a, b, c, ... */
+}
+
+ol ol ol {
+  list-style-type: lower-roman; /* Level 3: i, ii, iii, ... */
+}
+
+ol ol ol ol {
+  list-style-type: upper-alpha; /* Level 4: A, B, C, ... */
+}
+
+ol ol ol ol ol {
+  list-style-type: upper-roman; /* Level 5: I, II, III, ... */
+}
+
+ol ol ol ol ol ol {
+  list-style-type: decimal-leading-zero; /* Level 6: 01, 02, 03, ... */
+}
+
+/* Unordered Lists */
+ul {
+  list-style-type: disc; /* Level 1: Bullet */
+}
+
+ul ul {
+  list-style-type: circle; /* Level 2: Hollow Circle */
+}
+
+ul ul ul {
+  list-style-type: square; /* Level 3: Square */
 }
