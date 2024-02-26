@@ -16,7 +16,7 @@
 	1. No mechanism like [[CCNA/20 - Definitions/TCP\|TCP]]'s *Window Size* to control flow of traffic
 6. Best used for streaming video/audio content
 #### UDP Header
-![[UDP-header-1.png\|UDP-header-1.png]]
+![UDP-header-1.png](/img/user/Attachments/UDP-header-1.png)
 Source: [Wikipedia](https://en.wikipedia.org/wiki/User_Datagram_Protocol#UDP_datagram_structure)
 #### Common protocols and ports:
 Port 69,  [[CCNA/20 - Definitions/TFTP\|TFTP]]
