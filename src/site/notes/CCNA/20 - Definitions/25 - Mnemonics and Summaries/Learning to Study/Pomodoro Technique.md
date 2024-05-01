@@ -7,11 +7,14 @@
 	- In my experience, I have retained more information over a shorter period of time and ended my study sessions with more optimistic and with more mental energy than regular studying.
 - *Here's the technique:*
 	- 25-30 minutes of highly-focused studying
-		- No Reddit, no music, no reels, phone on silent if possible.
+		- Already have an idea of what you are going to focus on or accomplish during this period
+		- No Reddit, no music, no reels, phone on silent if possible
 	- 5-10 minutes of low-stimulus rest
-		- Eyes closed, quiet, nothing else coming into your mind.
-		- You can day dream or meditate; personally, I alternate to keep it interesting
-	- Repeat the above up to 4 times; on the 4th break, extend it to 15-20 minutes of rest.
+		- Eyes closed, quiet, no new external information entering your mind
+		- You can day dream or meditate
+			- Personally, I alternate to keep it interesting
+	- Repeat the above up to 4 times
+		- On the 4th break, extend it to 15-30 minutes of rest.
 - *Here's how it works:*
 	- Our brains need short periods of rest to process and store information properly
 		- There are tons of studies^[[An Effortless Way to Improve Your Memory](https://getpocket.com/explore/item/an-effortless-way-to-improve-your-memory)] that demonstrate the dramatic effect rest has on retaining learned information
