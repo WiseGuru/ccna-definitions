@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/ccna/20-definitions/25-mnemonics-and-summaries/learning-to-study/redditor-learning-how-to-learn/"}
 ---
 
-#quicknote 
 
 I thought this was great advice from a random dude on Reddit,^[[What was your study plan for CCNA 200-301 ? : r/ccna](https://www.reddit.com/r/ccna/comments/14ohsa8/comment/jqdjk04/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)] ^[[StayStruggling (u/StayStruggling) - Reddit](https://www.reddit.com/user/StayStruggling/)] and I wanted to make sure it had a place to live in posterity.
 
