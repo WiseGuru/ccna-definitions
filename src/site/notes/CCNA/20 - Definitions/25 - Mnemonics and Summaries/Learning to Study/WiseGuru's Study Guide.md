@@ -5,8 +5,6 @@
 
 This is a general guide for studying that could be applied to anything; a new certification, a language, a hobby, anything. It is also a *work in progress*, so bear that in mind.
 
-
-
 ### General topics
 1. Sources for learning
 	1. Relying on one source of information is not ideal
@@ -35,7 +33,7 @@ This is a general guide for studying that could be applied to anything; a new ce
 		3. Touch grass and get sun, brew some tea or coffee, walk around your home or office
 	3. Exercise
 		1. Brain and body are all one thing,^[Forget that there are separate insurance for body, eyes, and teeth; like wtf is that about, it's all one body right?] and taking care of your body will help improve your mind
-		2. Aerobic exercise and strength training good for cardiovascular health, and can improve focus and mental function^[[Site Unreachable](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/aerobic-exercise/art-20045541)] ^[[Exercising to Relax - Harvard Health Publishing - Harvard Health](https://www.health.harvard.edu/staying-healthy/exercising-to-relax)] ^[[Brain health: Cardio and strength training preserve cognition](https://www.medicalnewstoday.com/articles/aerobic-plus-strength-training-could-help-keep-the-brain-young)] ^[[Fetching Title#d7tf](https://www.webmd.com/add-adhd/exercise-manage-adhd-symptoms)]
+		2. Aerobic exercise and strength training good for cardiovascular health, and can improve focus and mental function^[[Mayo Clinic](https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/aerobic-exercise/art-20045541)] ^[[Exercising to Relax - Harvard Health Publishing - Harvard Health](https://www.health.harvard.edu/staying-healthy/exercising-to-relax)] ^[[Brain health: Cardio and strength training preserve cognition](https://www.medicalnewstoday.com/articles/aerobic-plus-strength-training-could-help-keep-the-brain-young)] ^[[Fetching Title#d7tf](https://www.webmd.com/add-adhd/exercise-manage-adhd-symptoms)]
 3. Study Methods
 	1. [[CCNA/20 - Definitions/25 - Mnemonics and Summaries/Learning to Study/Pomodoro Technique\|Pomodoro Technique]]
 	2. [How to be More Productive by Using the “Eisenhower Box”](https://jamesclear.com/eisenhower-box)
