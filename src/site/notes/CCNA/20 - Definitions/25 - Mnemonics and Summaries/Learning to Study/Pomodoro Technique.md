@@ -6,12 +6,15 @@
 - The *Pomodoro Technique* is^[In the context of this article and site] a *time-blocking* studying technique that breaks up periods of *rigorous*, *focused* study with short periods of *intense mental rest*.
 	- In my experience, I have retained more information over a shorter period of time and ended my study sessions with more optimistic and with more mental energy than regular studying.
 - *Here's the technique:*
+	- Write down your intention for the study period (optional)
+		- This is particularly helpful if you are struggling to get started or re-start (e.g., 5 minute break + coffee)
+		- I find I don't always need to do this, but it can be very help
 	- 25-30 minutes of highly-focused studying
-		- Already have an idea of what you are going to focus on or accomplish during this period
-		- No Reddit, no music, no reels, phone on silent if possible
+		- Clear idea of what you are going to focus on or accomplish during this period
+		- No Reddit, no music, no Reels, phone on silent if possible
 	- 5-10 minutes of low-stimulus rest
 		- Eyes closed, quiet, no new external information entering your mind
-		- You can day dream or meditate
+		- You can daydream or meditate
 			- Personally, I alternate to keep it interesting
 	- Repeat the above up to 4 times
 		- On the 4th break, extend it to 15-30 minutes of rest.
