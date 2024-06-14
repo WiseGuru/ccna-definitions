@@ -8,7 +8,7 @@
 - *Here's the technique:*
 	- Write down your intention for the study period (optional)
 		- This is particularly helpful if you are struggling to get started or re-start (e.g., 5 minute break + coffee)
-		- I find I don't always need to do this, but it can be very help
+		- I find I don't always need to do this, but it can be very helpful
 	- 25-30 minutes of highly-focused studying
 		- Clear idea of what you are going to focus on or accomplish during this period
 		- No Reddit, no music, no Reels, phone on silent if possible
