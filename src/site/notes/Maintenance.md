@@ -10,6 +10,12 @@ None.
 
 # Maintenance History
 
+#### 11/25/2024 - 9:00 AM PT to 9:45 AM PT
+What: **Re-arrange folders and add coloration to sidebar graph**
+When: 11/25/2024 - 9:00 AM PT to 9:45 AM PT
+Why: Improve navigation and site accessbility.
+Notes: I recently discovered how to add coloration to the nodes in the sidebar graph, and so I wanted to implement them for this site and for improved utility. Also, changing how the folders are arranged make it easier to do, and I think makes the site a little more user-friendly.
+
 #### 1/18/2024 - 3 PM PT to 3:20 PM PT
 What: **Possible Maintenance Outage**
 When: 1/18/2024 - 3 PM PT to 3:20 PM PT
