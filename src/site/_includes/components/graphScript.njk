@@ -24,10 +24,12 @@
         if (graphData == null) {
             return null;
         }
+
         let remaining = JSON.parse(JSON.stringify(graphData.nodes));
         let links = JSON.parse(JSON.stringify(graphData.links));
         let currentLink = decodeURI(window.location.pathname);
         let currentNode = remaining[currentLink] || Object.values(remaining).find((v) => v.home);
+
         delete remaining[currentNode.url];
         if (!currentNode.home) {
             let home = Object.values(remaining).find((v) => v.home);
@@ -39,20 +41,40 @@
         for (let i = 0; i < depth; i++) {
             existing, remaining = getNextLevelNeighbours(existing, remaining);
         }
-        nodes = Object.values(existing);
+
+        // **Modification Start**: Filter nodes based on folders or files with decoded URLs
+        const foldersToExclude = ['/none/']; // Use the URL folder path
+        const filesToExclude = ['/']; // Use the full URL file path
+
+        nodes = Object.values(existing).filter(n => {
+            const nodeUrl = decodeURIComponent(n.url);
+
+            // Exclude nodes in specified folders
+            const inExcludedFolder = foldersToExclude.some(folder => nodeUrl.startsWith(folder));
+            // Exclude specified files
+            const isExcludedFile = filesToExclude.includes(nodeUrl);
+            const shouldHide = n.hide || inExcludedFolder || isExcludedFile;
+
+            return !shouldHide;
+        });
+
+        // **Modification End**
+
         if (!currentNode.home) {
             nodes = nodes.filter(n => !n.home);
         }
         let ids = nodes.map((n) => n.id);
+
         return {
             nodes,
             links: links.filter(function (con) {
-                return ids.indexOf(con.target) > -1 && ids.indexOf(con.source) > -1;
+                const includeLink = ids.indexOf(con.target) > -1 && ids.indexOf(con.source) > -1;
+                return includeLink;
             }),
         }
     }
 
-    function getCssVar(variable) {return getComputedStyle(document.body).getPropertyValue(variable)}
+    function getCssVar(variable) { return getComputedStyle(document.body).getPropertyValue(variable) }
 
     function htmlDecode(input) {
         var doc = new DOMParser().parseFromString(input, "text/html");
@@ -68,8 +90,45 @@
         height = el.offsetHeight;
         const highlightNodes = new Set();
         let hoverNode = null;
-        const color = getCssVar("--graph-main");
-        const mutedColor = getCssVar("--graph-muted");
+
+        // **Modification Start**: Define specific colors for folders
+        const folderColorMap = {
+            '/expressions': '#530000',    // Red
+            '/mitigations': '#228B22',    // Green
+            '/definitions': '#808080',    // Gray
+            // Add more folders and colors as needed
+        };
+
+        // Default color palette for folders not specified
+        const defaultColorPalette = ['#f58231', '#911eb4', '#46f0f0',
+                                     '#f032e6', '#bcf60c', '#fabebe', '#008080',
+                                     '#e6beff', '#9a6324', '#fffac8', '#800000',
+                                     '#aaffc3', '#808000', '#ffd8b1', '#000075',
+                                     '#808080'];
+
+        let defaultColorIndex = 0;
+
+        function getNodeColor(node) {
+            if (node.current) {
+                return getCssVar("--graph-main");
+            }
+            const nodeUrl = decodeURIComponent(node.url);
+            const folderMatch = nodeUrl.match(/^\/[^/]+/);
+            const folder = folderMatch ? folderMatch[0] : '/';
+            // Check if folder has a specified color
+            if (folderColorMap[folder]) {
+                return folderColorMap[folder];
+            } else {
+                // Assign a default color if not specified
+                if (!folderColorMap[folder]) {
+                    folderColorMap[folder] = defaultColorPalette[defaultColorIndex % defaultColorPalette.length];
+                    defaultColorIndex++;
+                }
+                return folderColorMap[folder];
+            }
+        }
+        // **Modification End**
+
         let Graph = ForceGraph()
         (el)
             .graphData(graphData)
@@ -85,38 +144,42 @@
             .autoPauseRedraw(false)
             .linkColor((link) => {
                 if (hoverNode == null) {
-                    return color;
+                    return getCssVar("--graph-main");
                 }
                 if (link.source.id == hoverNode.id || link.target.id == hoverNode.id) {
-                    return color;
+                    return getCssVar("--graph-main");
                 } else {
-                    return mutedColor;
+                    return getCssVar("--graph-muted");
                 }
-                
             })
             .nodeCanvasObject((node, ctx) => {
                 const numberOfNeighbours = (node.neighbors && node.neighbors.length) || 2;
                 const nodeR = Math.min(7, Math.max(numberOfNeighbours / 2, 2));
-                
+
                 ctx.beginPath();
                 ctx.arc(node.x, node.y, nodeR, 0, 2 * Math.PI, false);
+
+                // **Modification Start**: Use getNodeColor function
+                let nodeColor = getNodeColor(node);
+
                 if (hoverNode == null) {
-                    ctx.fillStyle = color;
+                    ctx.fillStyle = nodeColor;
                 } else {
                     if (node == hoverNode || highlightNodes.has(node.url)) {
-                        ctx.fillStyle = color;
+                        ctx.fillStyle = nodeColor;
                     } else {
-                        ctx.fillStyle = mutedColor;
+                        ctx.fillStyle = getCssVar("--graph-muted");
                     }
                 }
-                 
+                // **Modification End**
+
                 ctx.fill();
-                
+
                 if (node.current) {
                     ctx.beginPath();
                     ctx.arc(node.x, node.y, nodeR + 1, 0, 2 * Math.PI, false);
                     ctx.lineWidth = 0.5;
-                    ctx.strokeStyle = color;
+                    ctx.strokeStyle = getCssVar("--graph-main");
                     ctx.stroke();
                 }
 
@@ -134,11 +197,10 @@
             .onNodeHover(node => {
                 highlightNodes.clear();
                 if (node) {
-                highlightNodes.add(node);
-                node.neighbors.forEach(neighbor => highlightNodes.add(neighbor));
+                    highlightNodes.add(node);
+                    node.neighbors.forEach(neighbor => highlightNodes.add(neighbor));
                 }
                 hoverNode = node || null;
-                
             });
             if (fullScreen || (delay != null && graphData.nodes.length > 4)) {
                 setTimeout(() => {
@@ -160,13 +222,37 @@
         if (graphData == null) {
             return null;
         }
+
         graphData = JSON.parse(JSON.stringify(graphData));
-        const hiddens = Object.values(graphData.nodes).filter((n) => n.hide).map((n) => n.id);
+
+        // **Modification Start**: Filter nodes based on folders or files with decoded URLs
+        const foldersToExclude = ['/none/']; // Use the URL folder path
+        const filesToExclude = ['/']; // Use the full URL file path
+
+        // Filter out nodes in specified folders or files
+        const hiddens = Object.values(graphData.nodes)
+            .filter((n) => {
+                const nodeUrl = decodeURIComponent(n.url);
+
+                const inExcludedFolder = foldersToExclude.some(folder => nodeUrl.startsWith(folder));
+                const isExcludedFile = filesToExclude.includes(nodeUrl);
+                const shouldHide = n.hide || inExcludedFolder || isExcludedFile;
+
+                return shouldHide;
+            })
+            .map((n) => n.id);
+
         const data = {
-            links: JSON.parse(JSON.stringify(graphData.links)).filter((l) => hiddens.indexOf(l.source) == -1 && hiddens.indexOf(l.target) == -1),
-            nodes: [...Object.values(graphData.nodes).filter((n) => !n.hide)]
-        }
-        return data
+            links: graphData.links.filter((l) => {
+                const includeLink = !hiddens.includes(l.source) && !hiddens.includes(l.target);
+                return includeLink;
+            }),
+            nodes: Object.values(graphData.nodes).filter((n) => {
+                const includeNode = !hiddens.includes(n.id);
+                return includeNode;
+            })
+        };
+        return data;
     }
 
     function openFullGraph(fullGraphData) {
@@ -202,12 +288,12 @@
                     <span id="depth-display" x-text="depth"></span>
                 </div>
                 <div class="ctrl-right">
-                    <span id="global-graph-btn" x-on:click="showFullGraph = true; setTimeout(() => {fullGraph = openFullGraph(fullGraphData)}, 100)"><i  icon-name="globe" aria-hidden="true"></i></span>
-                    <span  id="graph-fs-btn"  x-on:click="fullScreen = !fullScreen"><i  icon-name="expand" aria-hidden="true"></i></span>
+                    <span id="global-graph-btn" x-on:click="showFullGraph = true; setTimeout(() => { fullGraph = openFullGraph(fullGraphData)}, 100)"><i  icon-name="globe" aria-hidden="true"></i></span>
+                    <span  id="graph-fs-btn"  x-on:click="fullScreen = !fullScreen;"><i  icon-name="expand" aria-hidden="true"></i></span>
                 </div>
         </div>
     </div>
-    <div x-effect="window.graph = renderLocalGraph(graphData, depth, fullScreen)" id="link-graph" ></div>
+    <div x-effect="window.graph = renderLocalGraph(graphData, depth, fullScreen);" id="link-graph" ></div>
     <div x-show="showFullGraph" id="full-graph" class="show" style="display: none;">
         <span id="full-graph-close" x-on:click="fullGraph = closefullGraph(fullGraph); showFullGraph = false;"><i icon-name="x" aria-hidden="true"></i></span><div id="full-graph-container"></div>
     </div>
