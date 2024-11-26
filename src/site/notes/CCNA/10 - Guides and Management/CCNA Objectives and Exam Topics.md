@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/ccna-objectives-and-exam-topics/"}
+{"dg-publish":true,"dg-path":"10 - Guides and Management/CCNA Objectives and Exam Topics.md","permalink":"/10-guides-and-management/ccna-objectives-and-exam-topics/"}
 ---
 
 Below are the CCNA objectives (and their respective tags), according to Cisco's site as of 11/11/2023. 
