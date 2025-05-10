@@ -41,15 +41,12 @@ ul ul ul {
 }
 
 @media (min-width: 1401px) {
-  .sidebar,
-  .filetree-sidebar {
-    /* hide by default */
+  /* Hides the RIGHT sidebar until you click */
+  .sidebar {
     transform: translateX(-100%);
     transition: transform 0.3s ease;
   }
-  body.nav-open .sidebar,
-  body.nav-open .filetree-sidebar {
-    /* show when the “hamburger” toggles nav-open */
+  body.nav-open .sidebar {
     transform: translateX(0);
   }
 }
