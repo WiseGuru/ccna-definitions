@@ -40,13 +40,18 @@ ul ul ul {
   list-style-type: square; /* Level 3: Square */
 }
 
+// ----------------------------------------------------------------------------
+// Only collapse the left-hand file-tree above 1400px—right sidebar stays as-is
+// ----------------------------------------------------------------------------
+
 @media (min-width: 1401px) {
-  /* Hides the RIGHT sidebar until you click */
-  .sidebar {
+  /* hide filetree by default */
+  .filetree-sidebar {
     transform: translateX(-100%);
     transition: transform 0.3s ease;
   }
-  body.nav-open .sidebar {
+  /* but show it again when you click the toggle (which adds body.nav-open) */
+  body.nav-open .filetree-sidebar {
     transform: translateX(0);
   }
 }
