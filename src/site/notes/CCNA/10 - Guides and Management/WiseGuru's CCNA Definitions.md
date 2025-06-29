@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"10 - Guides and Management/WiseGuru's CCNA Definitions.md","permalink":"/10-guides-and-management/wise-guru-s-ccna-definitions/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/ccna/10-guides-and-management/wise-guru-s-ccna-definitions/","tags":["gardenEntry"]}
 ---
 
 # CCNA Definitions
@@ -17,11 +17,7 @@ I also recommend checking out my [[CCNA/30 - Mnemonics and Summaries/Subnetting 
 
 ### Planned Maintenance
 
-#### 11/25/2024 - 9:00 AM PT to 11:59 PM PT
-What: **Re-arrange folders and add coloration to sidebar graph**
-When: 11/25/2024 - 9:00 AM PT to 9:45 AM PT
-Why: Improve navigation and site accessibility.
-Notes: I recently discovered how to add coloration to the nodes in the sidebar graph, and so I wanted to implement them for this site and for improved utility. Also, changing how the folders are arranged make it easier to do, and I think makes the site a little more user-friendly. This will take time to accomplish.
+#### None.
 
 >**Disclaimer:** Because Cloudflare effectively rebuilds the site from scratch each time I update a page, you may notice some irregularities if you're looking at the site at the same time that an update is being pushed. This interruption should be brief, and otherwise have no impact on your use of the site.
 
